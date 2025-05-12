@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: nbaapi
+    schema: nbaapi
+    tables:
+      - name: _dlt_loads
+      - name: _dlt_pipeline_state
+      - name: _dlt_version
+      - name: players
+      - name: players_details
+      - name: shots
+      - name: teams_details

@@ -1,17 +1,17 @@
-with api_players as (
-    select * from {{ source('api', 'players') }}
+with nbaapi_players as (
+    select * from {{ source('nbaapi', 'players') }}
 ),
 
-api_players_details as (
-    select * from {{ source('api', 'players_details') }}
+nbaapi_players_details as (
+    select * from {{ source('nbaapi', 'players_details') }}
 ),
 
 csv_player as (
-    select * from {{ source('files', 'player') }}
+    select * from {{ source('nbacsv', 'player') }}
 ),
 
 csv_common_player_info as (
-    select * from {{ source('files', 'common_player_info') }}
+    select * from {{ source('nbacsv', 'common_player_info') }}
 )
 
 SELECT 
