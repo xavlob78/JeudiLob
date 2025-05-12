@@ -1,0 +1,820 @@
+﻿Origine;Date;Nature;Région;Lieu;Gravité EPSF
+Réseau;2023-01-02;Défauts de géométrie détectés lors d’un enregistrement officiel réalisé par engin de mesure;Hauts-de-France;Nesles (80);4.0
+Réseau;2023-01-08;Absence de mesure d'urgence vis à vis d'un train de l'EF SNCF Voyageurs se dirigeant vers un Passage à Niveau en raté d'ouverture.;Occitanie;St Gaudens (31);4.0
+Collision passage à niveau;2023-01-11;Collision d'un camion poubelle sur un  PN par un TER. 1 voyageur blessé à l’épaule et un autre choqué. Le conducteur du camion éjecté par la vitre avant, est blessé. Le bogie de tête du train a  déraillé;Nouvelle-Aquitaine;Asnière la giraud (17);5.0
+Electrisation tiers;2023-01-16;Electrisation d'un individu entrainant son décès;Île-de-France;Paris nord;5.0
+FRET;2023-01-21;Prise en écharpe entre 2 Engins Moteurs M;Grand Est;Woippy;5.0
+Réseau;2023-01-23;Délivrance de 2 bulletins de franchissements de carrés fermés à des évolutions de l'EF SNCF Voyageurs sur Voie Principale par l'Agent Circulation  du poste sans vérification correcte (conséquence notable: talonnage d'un taquet);Île-de-France;Etampes (91);4.0
+Collision passage à niveau;2023-01-24;Un TER a heurté un bus au passage à niveau. Au moins 6 personnes ont été blessées dans le train suite à la violence du choc. L’autobus était vide, le conducteur étaIt descendu avant le choc. De gros dégâts sur le matériel et sur les installations.;Auvergne-Rhône-Alpes;Cevins (73);6.0
+Réseau;2023-02-07;Travaux au passage à niveau avec dépose du platelage sans assurer la sécurité des voyageurs pour la traversée des voies;Occitanie;Villenouvelle (31);4.0
+Réseau;2023-02-08;Un agent circulation se trompe sur la formation d'un itinéraire. La conséquence est l'enfoncement d'un butoir d’une vingtaine mètres et l'engagement du  gabarit de la voie de service d’entrée du triage. Un poteau caténaire est penché et les deux locomotives de tête ont déraillées.  Enfin une dizaine de traverses et câbles SE sont endommagés.;Île-de-France;Trappes (78);4.0
+Collision passage à niveau;2023-02-14;Heurt avec une personne à un  Passage à Niveau;Nouvelle-Aquitaine;entre St-Michel-sur-Charente et Angoulême (16);5.0
+Réseau;2023-02-23;Défauts de géométrie de la voie, détectés lors d'un enregistrement réalisé par un ESV (Engin de Surveillance de la Voie) en tournée officielle.;Hauts-de-France;Marquise-Rinxent;4.0
+Réseau;2023-02-23;Erreur de procédure lors du traitement de défaut de contrôle d'appareils de voie.;Hauts-de-France;Lens (62);4.0
+Collision passage à niveau;2023-03-01;Heurt d'un véhicule sur un  Passage à Niveau par un train de voyageurs;Auvergne-Rhône-Alpes;Entre villars les dombes et marlieux (01);5.0
+Collision hors passage à niveau;2023-03-10;Collision d'un TER contre un obstacle (arbre - intempéries) avec avaries matériel roulant;Centre-Val de Loire;Entre La Villette Saint-Prest PL & Chartres (28);5.0
+Réseau;2023-03-17;Non respect de la règle de l'arrêt accidentel par un train du GI générant un dépassement de vitesse supérieur à 40 km/h.;Bourgogne-Franche-Comté;Entre Poligny et Mouchard (39);4.0
+Accident de personne;2023-03-17;Heurt d'une personne dans la voie;Provence-Alpes-Côte d'Azur;Menton (06);5.0
+Réseau;2023-03-17;Talonnage d'un appareil de voie sur voie principale par un train de travaux suivi du déraillement de trois wagons;Île-de-France;Roissy en brie (77);4.0
+Accident de personne;2023-03-18;Accident de personne - Heurt avec blessure en gare d'une personne par un train de voyageurs;Île-de-France;Paris Nord (75);5.0
+Collision hors passage à niveau;2023-03-24;Heurt d'un arbre par un train de voyageurs;Île-de-France;Ballancourt (91);4.0
+Réseau;2023-03-27;Défauts de géométrie imposant l'arrêt des circulations détectés lors de l'enregistrement supplémentaire;Hauts-de-France;Saint Quentin (02);4.0
+Réseau;2023-03-29;Défauts de géométrie imposant l'arrêt des circulations détectés lors de l'enregistrement des voies effectué à l'aide d'un engin de mesure.;Normandie;Rouen (76);4.0
+Réseau;2023-03-29;Reddition Voie Libre en Bloc Manuel de Voie Unique suite à mauvais rebranchement d'un fil, par un agent du Service Electrique , en présence d'un train  dans le canton.;Occitanie;Cordes (81);4.0
+Réseau;2023-04-07;Franchissement d'un signal d'arrêt fermé par un train de travaux sans autorisation avec engagement de la voie principale;Bourgogne-Franche-Comté;Fleurville (71);4.0
+Réseau;2023-04-20;Prise en écharpe d'un train de FRET en mouvement autorisé alors qu’il y avait déjà un autre mouvement autorisé en cours. Dégâts importants côté FRET, estimation des coûts ~150k€;Auvergne-Rhône-Alpes;Sibelin(69);5.0
+Accident de personne;2023-05-16;Heurt d'un cycliste par un TER au franchissement d'un Passage à Niveau;Grand Est;Vandières (54);5.0
+Réseau;2023-05-30;Défaut de géométrie sur voie principale détecté lors d'un enregistrement supplémentaire par un engin de mesure et imposant l'arrêt des circulations;Grand Est;Xeuilley (54);4.0
+Collision passage à niveau;2023-06-05;Heurt mortel d'un motocycliste sur un passage à niveau par un train de voyageurs;Île-de-France;Livry sur seine (77);5.0
+Voyageurs;2023-06-06;Dépassement de Vitesse Limite  supérieur à  40 km/h;Nouvelle-Aquitaine;Lamothe-Montravel -Castillon (24);4.0
+Réseau;2023-06-07;incident grave de signalisation: absence d'un itinéraire lors de la mise en protection d'une section élémentaire;Île-de-France;Paris Est;4.0
+Réseau;2023-06-09;déformation voie, suite forte chaleur, signalé par un conducteur (cf slide environnement);Hauts-de-France;Pargny la dhuys (02);4.0
+Réseau;2023-06-12;Absence de prise de mesures à la réception d'un avis de divagation de bestiaux. Expédition du train n°886930 de l'EF SNCF-Voyageurs sans ordre prévu.;RA;St-Etienne (42);4.0
+Réseau;2023-06-15;Franchissement intempestif d'un chevron pointe en haut avec engagement du point protégé par un train de Réseau;Grand Est;Raon  l'étape (88);4.0
+Collision passage à niveau;2023-06-21;Collision  entre un train de l'EF SNCF VOYAGEURS et un véhicule routier - 1 occupant du véhicule décédé;Pays de la Loire;Entre Arnage et Ecommoy (72);5.0
+Réseau;2023-06-22;Coulée de boue sur une Voie Unique signalée par la gendarmerie entraînant une interruption de la circulation;Grand Est;Courtenot (10);4.0
+Accident de personne;2023-06-28;Heurt d'une personne par un TER;Grand Est;Champigneulles (54);5.0
+Réseau;2023-06-29;Déformation de voie détectée par un conducteur d'un train de voyageurs;Occitanie;Entre Nîmes et Manduel (30);4.0
+Voyageurs;2023-07-03;Franchissement d'un Signal d'Arrêt par un train de voyageurs, après arrêt puis remise en marche sans prise des mesures idoines.;Nouvelle-Aquitaine;Neuvic (19);4.0
+Accident de personne;2023-07-13;collision avec un piéton sur un passage à niveau;Île-de-France;Marly le roi;5.0
+Réseau;2023-07-17;Délivrance de 4 autorisations de franchissement de signaux fermés sans assurance que les conditions nécessaires à leur ouverture étaient réalisées.;Hauts-de-France;Abbeville (80);4.0
+Réseau;2023-07-18;Expédition de plusieurs trains (EF SNCF Voyageurs) sans ordre prévu, à la suite du signalement d'un choc anormal semblant provenir de la voie.;B;Entre Pontchaillou PL & Betton PL (35);4.0
+Réseau;2023-07-20;Délivrance d'autorisations de franchissements de signaux sur voie principale alors que les conditions ne sont pas remplies;Île-de-France;goussainville (95);4.0
+Réseau;2023-07-20;défaillance de voie imposant l'arrêt des circulations, découverte lors d'une tournée;Centre-Val de Loire;Les Aubrais;4.0
+Accident de personne;2023-07-21;Décès par heurt d’une personne (ayant le pied coince dans le rail) par un train Intercites (Toulouse-Matabiau/Hendaye) sur un passage à niveau (non inscrit au programme national de sécurisation). Trafic interrompu voies 1 et 2 entre Bayonne et Biarritz dès 20 h 30.;Occitanie;Bayonne (64);5.0
+Réseau;2023-07-24;Délivrance d'un bulletin de franchissement du C42 fermé au train n°864470 (SNCF Voyageurs) sur VP avec vérifications incomplètes;Nouvelle-Aquitaine;Royan  (dépt. 17);4.0
+Réseau;2023-07-25;Expéditions de trains de voyageurs sur Ligne à Grande Vitesse sans remise d'un ordre de limitation de vitesse prévu à 230 km/h sur 12 kilomètres.;Provence-Alpes-Côte d'Azur;Entre Avignon (84) et Roquemaure (30);4.0
+Réseau;2023-07-28;Défaut de mesure supplémentaire pour arrêter un train de Voyageurs se dirigeant vers un PN  signalé en raté d'ouverture;Centre-Val de Loire;Vierzon Poste B (37);4.0
+Collision passage à niveau;2023-07-29;heurt mortel d'un conducteur de scooter sur un passage à niveau;Occitanie;Dieupentale (82);5.0
+Réseau;2023-08-02;restitution d'une DPV par le responsable travaux avec présence d'un LAM sur VP;Île-de-France;Vaires (77);4.0
+Accident de personne;2023-08-06;heurt par un train de voyageurs d'un passager tombé d'un train croiseur suite à l'ouverture volontaire d'une porte en marche;Auvergne-Rhône-Alpes;Entre venissieux et saint priest (69);5.0
+Réseau;2023-08-09;Heurt entre un train de travaux et un train de voyageurs;Île-de-France;Etampes (91);4.0
+Accident de personne;2023-08-09;Heurt d'une personne par train;Grand Est;STRASBOURG ROETHIG (67);5.0
+Réseau;2023-08-28;défaut de mesure de protections et passage d'une circulation sur un passage à niveau sans mesures de protections;Hauts-de-France;Compiegne(60);4.0
+Réseau;2023-08-29;Franchissement du signal C72 fermé par manœuvre de refoulement d’un convoi du GI (Le chef de manœuvre de l’Infralog a omis de demander à l’AC la commande à l’ouverture du signal);Grand Est;Raon-L’étape (Dépt : 88);4.0
+Collision passage à niveau;2023-08-29;Heurt mortel d'un Motard sur le PN 54;Auvergne-Rhône-Alpes;Entre Saint-Cergues-les-Voirons et Machilly (Dépt : 74);5.0
+Réseau;2023-08-29;Défaut de géométrie sur VP avec valeur d’arrêt lors d’une tournée d’enregistrement officielle.;Hauts-de-France;Mézy (Dépt. 02);4.0
+Réseau;2023-08-30;FSA de la pancarte LM lors de la manœuvre du train n°815662 de SNCF RESEAU, avec pénétration dans le canton de Voie Unique sans procédure.;Grand Est;Saint-Hilaire-au-Temple (Dépt. 51);4.0
+Réseau;2023-09-06;Découverte, lors d'une relève de dérangement, de l'inversion de 2 zones de circuit de voie.;Île-de-France;Pont de l'alma;4.0
+FRET;2023-09-07;Réception sur voie occupée ayant entrainé la collision de la locomotive  de manœuvre avec  une rame en stationnement. Le conducteur se rend compte de l'occupation de la voie à la prise de la dernière aiguille, il freine d'urgence mais n’évite pas la collision. deux blessés à déplorer;Occitanie;St-Jory (31);4.0
+Réseau;2023-10-03;Dégagement intempestif d'un train de travaux d'un domaine fermé;Pays de la Loire;Loire (49);4.0
+Accident de personne;2023-10-07;Accident Individuel de Personne (Blessé Grave) suite heurt par un  train TER;Provence-Alpes-Côte d'Azur;Entre Avignon (84) et Sorgues (84);5.0
+Accident de personne;2023-10-14;Découverte d'un corps sur Voie Principale heurté par une circulation non identifiée;Provence-Alpes-Côte d'Azur;Cavaillon (84);5.0
+Cause Externe;2023-10-15;Dérive Wagons et heurt PRS à Frasnois;Bourgogne-Franche-Comté;Frasnois (25);5.0
+Réseau;2023-10-20;Mouvement à contrevoie sur Voir Principale d'une circulation Haut Le Pied de Réseau sans assurance que la voie est livre et le restera;Bourgogne-Franche-Comté;Sens (89);4.0
+Réseau;2023-10-24;Franchissement du signal C 16 fermé par train 828354 (GI SNCF Réseau – train laveur) avec engagement du point protégé;B;"Vitré
+(35)";4.0
+FRET;2023-10-25;Dérive de 30 wagons avec talonnage d’aiguille, franchissement de signal et engagement des voies principales;IdF;"site FRET SNCF
+de Bobigny (93)";4.0
+Accident de personne;2023-10-31;Prise d'un malaise, une personne sur le quai en gare de Lyon-Part-Dieu est heurtée par lun TGV. Personne décédée.;Auvergne-Rhône-Alpes;Lyon-Part-Dieu (69);5.0
+Réseau;2023-11-06;Mise en œuvre de travaux en dehors du domaine fermé sur voie principale;Centre-Val de Loire;Toury(28);4.0
+Réseau;2023-11-13;Franchissment intempestif d'un Signal d'arrêt à main;Hauts-de-France;Lens (62);4.0
+Réseau;2023-11-14;Raté de fermeture d'un Passage à Niveau  détecté par le conducteur d'un trainde voyageurs, qui s'est arrêté avant de franchir le PN ouvert;Nouvelle-Aquitaine;Agonac (24);4.0
+Réseau;2023-11-17;Non remise d'ordre écrit à un  train de l'EF SNCF Voyageurs suite à enrayage important signalé par un autre train;Nouvelle-Aquitaine;Vivonne (86);4.0
+Réseau;2023-11-19;franchissment d'un pn gardé barrières ouvertes, feux éteints par un train de voyageurs;Bourgogne-Franche-Comté;chemilly/yonne (89);4.0
+Accident de personne;2023-11-21;accident de personne;Île-de-France;rosa parks (75);5.0
+Accident de personne;2023-11-23;Heurt d'une personne;Normandie;Morgny (76);5.0
+Réseau;2023-11-26;Déraillement d'un Train de Travaux de SNCF Réseau sur Voie Principale. Conséquences: une ballastière au sol , un poteau caténaire et une guérite endommagés.;Occitanie;Toulouse (31);5.0
+Cause Externe;2023-12-01;interruption de circulation suite à des Inondations et glissements de terrain;Auvergne-Rhône-Alpes;Ligne de Gap à Briançon (05);4.0
+Réseau;2023-12-05;Reprise de la circulation normale sans dépêche du mainteneur après un choc anormal signalé par un conducteurparaissant provenir de la voie;Bourgogne-Franche-Comté;Toutry (21);4.0
+Voyageurs;2023-12-06;Franchissement intempestif d'un signal fermé  par la manoeuvre d'un train de Voyageurs. Alors qu’il n’a pas encore commandé l’itinéraire, l’AC s’aperçoit que le matériel a repris la manœuvre et qu’il se situe à hauteur du poste d’aiguillage (franchissement d'un Carré violet fermé).;Hauts-de-France;Saint-Quentin (02);4.0
+Accident de personne;2023-12-12;Heurt dune personne par un train de voyageurs à proximité d'un Passage à Niveau;Hauts-de-France;Roubaix (59);5.0
+Accident de personne;2023-12-17;heurt mortel d'une  Personne par un train Transilien;Île-de-France;Maison laffite (94);5.0
+Collision passage à niveau;2023-12-18;heurt d'une moto par un un train TER sur un passage à niveau, le motard est décédé;Nouvelle-Aquitaine;Portets (33);5.0
+Collision passage à niveau;2023-12-30;Heurt d'un tracteur agricole par un train de voyageurs au franchissement d'un Passage à Niveau;Grand Est;Humas-Jorquenay (52);5.0
+Réseau;2024-01-16;Sortie intempestive d'un domaine fermé sur Voie Principale par un train de travaux de Réseau;Auvergne-Rhône-Alpes;Bellegarde (01);4.0
+Réseau;2024-01-19;Découverte d'une rupture de rail à la suite d'un choc anormal signalé par le conducteur d'un train de  Voyageurs;Grand Est;Lesseux (88);4.0
+Accident de personne;2024-01-25;heurt d'une personne par un train de SNCF Voyageurs;Normandie;Mézidon (14);5.0
+Collision passage à niveau;2024-01-26;heurt d'une remorque de camion stationnée sur un passage à niveau  par un train de l'EF Ecorail;Nouvelle-Aquitaine;St Jean d'Angély (17);5.0
+Réseau;2024-02-07;Découverte sur une aiguille sur Voie Principale d'un défaut d'écartement imposant l'arrêt des circulations;Île-de-France;Montereau (77);4.0
+Electrocution;2024-02-08;personne électrocutée en montant sur le toit d’une rame Eurostar. La personne est décédée, il s'agissisait d'un migrant.;Île-de-France;Paris Nord;5.0
+Réseau;2024-02-08;Découverte, sur la VP n°2 Bis Circulation d'un défaut d'écartement EMax classé en LAI;Île-de-France;Villeneuve St Georges(94);4.0
+Réseau;2024-02-12;Découverte sur voie principale d'un défaut d'écartement par un enregistrement officiel;Île-de-France;Paris Gare de Lyon;4.0
+Réseau;2024-02-17;Franchissement du PN 129 par plusieurs circulations avec barrières levées et allumage tardif des feux routiers.;Grand Est;"Laneuveville-devant-
+Nancy (54)";4.0
+Réseau;2024-02-19;Expédition de plusieurs circulations sans formulaire RATO (Raté d'Ouverture de Passage à Niveau);Normandie;Bréauté-Beuzeville (76);4.0
+Réseau;2024-02-28;Expédition d'un train de SNCF Voyageurs sans l'ordre prévu, sur une zone pour laquelle la vitesse était limitée à 40 km/h;Bourgogne-Franche-Comté;Montchanin (71);4.0
+Réseau;2024-03-01;Découverte sur une Voie Unique  de défauts d'écartement imposant l'arrêt des circulations;Île-de-France;Montereau (77);4.0
+Réseau;2024-03-11;Absence de mesure urgence,non remise d'ordre écrit de marche prudente et DVL d'un train  de l'EF SNCF Voyageurs suite à raté d'ouverture d'un Passage à Niveau;Nouvelle-Aquitaine;Montaut (64);4.0
+Accident de personne;2024-03-25;heurt d'une personne avec un vélo traversant les voies par un train de Voyageurs;Occitanie;Longages Noé (31);5.0
+Accident de personne;2024-03-26;heurt d'une personne par un train de Voyageurs;Occitanie;L'estaque (13);5.0
+Accident de personne;2024-04-04;découverte d'un corps dans la voie;Hauts-de-France;Nanteuil  (02);5.0
+Accident de personne;2024-04-22;accident mortel d'une personne heurtée par un train de Fret;Auvergne-Rhône-Alpes;Saint Chamond (42);5.0
+Réseau;2024-04-24;Dérangement contraire à la sécurité sur une VP parcourue par des trains de voyageurs;Auvergne-Rhône-Alpes;Estressin (38);4.0
+Accident de personne;2024-05-03;Heurt d'une personne par un TER;Pays de la Loire;Marcq en baroeul (59);5.0
+Réseau;2024-05-06;Dépassement de la vitesse limite supérieure à 40 Km/h lors d'une mission de reconnaissance sur Ligne à Grande Vitesse effectuée pour le compte de SNCF-Réseau.;Auvergne-Rhône-Alpes;Entre Lapeyrouse et Saint-Georges D'Espéranche (69);4.0
+Réseau;2024-05-12;heurt d'une coulée de boue par un train de sncf Voyageurs;Normandie;Vendeuvre (14);4.0
+Voyageurs;2024-05-13;mise en mouvement sens inverse sans autorisation sur voie principale d'une manœuvre;Auvergne-Rhône-Alpes;Clermont (63);4.0
+Réseau;2024-05-22;Défaut de géométrie sur voie unique détecté lors d’un enregistrement officiel avec ESV imposant l’arrêt des circulations;Centre-Val de Loire;Entre Port de Piles (86) et la Haye Descartes (37);4.0
+Accident de personne;2024-05-23;Heurt en pleine voie d'une personne par un train TER;Provence-Alpes-Côte d'Azur;Vallauris (04);5.0
+Réseau;2024-05-23;Défaut d'écartement sur VP détecté au passage d'un engin de mesure de SNCF Réseau. Mise en place d'une interdiction de circulation;Centre-Val de Loire;Millay (58);4.0
+Accident de personne;2024-06-03;Accident Individuel de Personne heurtée par un TGV;Pays de la Loire;Gare de La Suze PL (72);5.0
+Réseau;2024-06-07;Interdiction de circulation à la suite de 3 défauts de géométrie détectés lors d'un enregistrement à laide d'un engin de mesure.;Normandie;Etrépagny (27);4.0
+Accident de personne;2024-06-24;heurt d'une personne par une circulation ferroviaire par un  train de l'EF Europe Express;Hauts-de-France;Beuvrage (59);5.0
+Cause Externe;2024-06-25;coulée de boue découverte par un train de l'EF Voyageurs suite à de fortes intempéries;Auvergne-Rhône-Alpes;entre Poliénas et Tullins-Fures (38);4.0
+Collision passage à niveau;2024-06-26;heurt d'un véhicule routier sur un passage à niveau;Nouvelle-Aquitaine;Sailly sur la lys(62);5.0
+Réseau;2024-06-27;Dépassement du point d'arrêt (signal Carré violet 713 fermé), par  une manoeuvre du GI SNCF Réseau avec engagement du point protégé et engagement de la Voie Principale;Pays de la Loire;Le Mans (72);4.0
+Réseau;2024-07-02;Circulation à contre-sens sur Installation Permanente de Contre Sens d'un train  portant le secours par l'avant à un autre train  sans établissement du sens « secours ».;Grand Est;Rémilly (57);4.0
+Réseau;2024-07-10;Autorisation de franchissement d'un signal carré de Voie Principale sans vérification;Île-de-France;Combs la ville (91);4.0
+Réseau;2024-07-12;Dégagement intempestif d'un domaine fermé par un Lorry Auto Moteur. Heurts des protections d'encadrement du chantier;Bretagne;Entre Dol et Montreuil (35);4.0
+Réseau;2024-07-16;ESOP des 854304 et 854310 à CS sans limitation de vitesse à 30 km/h pour la traversée de la gare de Dingé.;Bretagne;Entre Dol de Bretagne et Montreuil Sur Ille (35);4.0
+Voyageurs;2024-07-16;Signalement par le conducteur du train n°839557 de l’absence des barrières au franchissement du PN135 interdit à la circulation routière et piétonne.;Grand Est;Bricon (52);4.0
+Accident de personne;2024-07-23;Accident de personne en zone de quai, en gare;IdF;Conflans Ste Honorine (78);5.0
+Accident de personne;2024-07-28;Heurt mortel d’un tiers en pleine voie par le train n°16813 (EF SNCF Voyageurs);Centre-Val de Loire;"Entre St-Ay et Meung-sur-
+Loire (45)";5.0
+Réseau;2024-08-07;Non fermeture des barrières du PN 66 à l’approche d’une circulation à la suite d’une erreur du mainteneur lors d’une intervention dans le cadre d’un raté d’ouverture du PN;Provence-Alpes-Côte d'Azur;Menton (06);4.0
+Collision passage à niveau;2024-08-08;Heurt mortel d’une voiture au PN 284 par le train 17823 (EF SNCF Voyageurs);Auvergne-Rhône-Alpes;Lancie (69);5.0
+Accident de personne;2024-08-09;Heurt mortel d’une personne sur le PN 41 par le train 3970 (EF SNCF Voyageurs);Occitanie;Entre Pamiers et Saverdun (09);5.0
+Cause Externe;2024-08-13;Avarie caténaire et pantographe HS au 18529 suite à impact foudre;Auvergne-Rhône-Alpes;Entre Bourgoin et Saint André le Gaz (38);5.0
+Réseau;2024-08-22;Oubli d'une cale anti-dérive occasionnant le déraillement de deux wagons sur un appareil de voie;Grand Est;Langres (52);4.0
+Accident de personne;2024-08-28;accident de personne d'une personne en trotinette sur un passage à niveau;Bretagne;Montauban de bretagne (35);5.0
+Réseau;2024-09-09;Oubli de remise d’ordre de circuler avec restriction à deux trains de l'EF Voyageurs  suite au signalement d'un mouvement anormal;Provence-Alpes-Côte d'Azur;La Pauline (83);4.0
+Voyageurs;2024-09-14;Départ sans autorisation du chef de ligne  (Train jaune);Occitanie;Olette (66);4.0
+Réseau;2024-09-18;Surécartement imposant l'arrêt des circulations, détecté lors d'un enregistrement officiel des voies à l'aide du wagon SIM;Normandie;Caen (14);4.0
+Voyageurs;2024-09-27;Perte de pièces: brosse et upport de brosse de répétiteurs de signaux (pièces de 22kg);Bourgogne-Franche-Comté;Toutry (21);4.0
+Voyageurs;2024-09-27;Perte de pièce de matériel roulant sur Ligne à Grande Vitesse;Bourgogne-Franche-Comté;Tonnerre (89);4.0
+Réseau;2024-10-02;Non respect d'un Signal d'Arret à Main d'une zone de chantier sur domaine fermé par un Train de Travaux;Provence-Alpes-Côte d'Azur;Miramas (13);4.0
+Réseau;2024-10-04;défaillance de voie avec valeur d'arrêt découverte suite à une tournée d'enregistrement complémentaire;Centre-Val de Loire;Les Aubrais (45);4.0
+Réseau;2024-10-07;Découverte d’un défaut de géométrie de la voie par l’engin de mesure Mauzin de SNCF Réseau - Norme d’arrêt - Sans conséquence;Occitanie;St Paul de Fenouillet (66);4.0
+Réseau;2024-10-19;Arrachement de Caténaire, sur Voie Principale.;Auvergne-Rhône-Alpes;Entre St Priest (69) et grenay (38);5.0
+Réseau;2024-10-23;Retour de l'orientation de la ligne en sens normal alors qu'un train est engagé à contre-sens dans l'intervalle -Dérangement contraire à la sécurité;Nouvelle-Aquitaine;Entre Gazinet Cestas et Pessac (33);4.0
+Réseau;2024-10-24;Autorisation de franchissement d'un signal carré la fermeture avec vérification erronée de la position d'une aiguille;Île-de-France;Villeneuve Triage (94);4.0
+Accident de personne;2024-10-26;Heurt mortel d'une personne sur un Passage à Niveau par un train de l'EF DB Cargo France;Nouvelle-Aquitaine;Marmande (47);5.0
+Réseau;2024-10-26;Découverte et heurt,par conducteur d'un train de l'EF SNCF Voyageurs d'un glissement de déblai sur Voie Principale avec interdiction de circulation;Nouvelle-Aquitaine;Entre Villefranque et Mousseroles (64);4.0
+Cause Externe;2024-10-30;Déraillement d'un train de l'EF Captrain;Hauts-de-France;Nanteuil  (02);5.0
+Cause Externe;2024-10-30;Déraillement d'un train de l'EF Captrain sur Voie Principale;Hauts-de-France;Nanteuil  (02);5.0
+Accident de personne;2024-11-06;Accident de personne en pleine voie;Nouvelle-Aquitaine;Bayonne (64);5.0
+Réseau;2024-11-14;Défauts de géométrie détectés lors d'un enregistrement officiel réalisé par engin de mesure et imposant l'arrêt des circulations;Hauts-de-France;Somain (59);4.0
+Réseau;2024-11-18;expédition d'un train par un agent circulation sans attendre le train croiseur en voie unique;Nouvelle-Aquitaine;Urt (64);4.0
+Réseau;2024-12-04;Dégagement d'un domaine fermé par une bourreuse de SNCF Réseau vers une voie principale sans autorisation;Bretagne;Brest (29);4.0
+Réseau;2024-12-27;Rail cassé sur LGV Méditerranée avec interdiction de circulation puis Limitation Temporaire de Vitesse;Provence-Alpes-Côte d'Azur;Entre Aix et Avignon TGV;4.0
+Réseau;2024-12-30;Circulation d'un train  sur une aiguille sur Voie Principale (dans la direction contrôlée) sans examen préalable et sans l'ordre de franchissement au pas.;Auvergne-Rhône-Alpes;Marignier (74);4.0
+Accident de personne;2025-01-03;Collision piéton à un Passage à Niveau;Île-de-France;Deuil Monmagny (95);5.0
+Réseau;2025-01-08;Autorisations de franchissement d'un signal Carré d'un Etablissement PL sans vérification par l' Agent Circulation;Grand Est;Apach (57);4.0
+Réseau;2025-01-17;Défaut de mesure de protection et expédition sans ordre prévu d'un train  de Voyageurs à la suite du dérangement d'un Passage à Niveau;Grand Est;Gandrange-Amnéville (57);4.0
+Réseau;2025-01-24;Circulation d'un train  de Voyageurs sans ordre prévu pour la reconnaissance de la voie sur la Ligne à Grande Vitesse Atlantique;Île-de-France;Plessis (92);4.0
+Réseau;2025-01-24;Déraillement d'un Train de Travaux de SNCF Réseau lors d'une manouvre guidée effectuée par l'EF TSO. Conséquences matérielles importantes.;Occitanie;Castelnaudary (11);5.0
+Accident de personne;2025-01-24;Descente intempestive de voyageurs après service du train terminé: une personne descend mais elle s'est trompée de gare. Elle est accompagnée d'un garcon de 13 ans et d'une fille de 6 ans. Les enfants sont encore dans la rame mais cherchent à descendre. Le garçon réussit à ouvrir la porte alors que le train est en mouvement, il saute sur le quai. La fillette le suit mais sa jambe se coince dans le marchepied. Le garçon réussit à récupérer sa sœur. Celle-ci est blessée et devra être amputée.;Pays de la Loire;Saint Hilaire Saint Nazaire (44);5.0
+Réseau;2025-01-25;Franchissement d'un Passage à Niveau barrières ouvertes;Occitanie;Mazamet La Bruguière (81);4.0
+Accident de personne;2025-02-04;Chute d'une personne dans la lacune entre le quai et un train vide de voyageurs pendant sa phase de départ;Île-de-France;Les Mureaux (78);5.0
+Accident de personne;2025-02-06;découverte d'un corps dans un tunnel par le conducteur d'un train de Sud Azur;Provence-Alpes-Côte d'Azur;Nice (06);5.0
+Réseau;2025-02-22;Autorisation de franchissement transmise à 5 trains de l'EF SNCF Voyageurs sans avoir commandé deux signaux carrés à l'ouverture,  en direction de Voies Principales;Nouvelle-Aquitaine;Siorac en Périgord (24);4.0
+Réseau;2025-03-01;Délivrance d'un bulletin de franchissment de carré block automatique alors que les conditions d'ouverture ne sont pas satisfaites;Île-de-France;Persan Beaumont (95);4.0
+Réseau;2025-03-04;Délivrance d’autorisations de franchissement de signal sans vérification préalable;Hauts-de-France;Lille Flandres (59);4.0
+Réseau;2025-03-06;Autorisation de franchissement sans vérification sur un signal Carré;Île-de-France;PCD Invalides;4.0
+Accident de personne;2025-03-25;Heurt mortel d’une personne par un train de Voyageurs  sur un Passage à Niveau;Auvergne-Rhône-Alpes;Bourg en bresse (01);5.0
+Accident de personne;2023-01-02;Accident de personne à la traversée d'un passage planchéier par un train de l'EF FRET;Auvergne-Rhône-Alpes;Vaulche saint galmier (42);5.0
+Electrisation tiers;2023-01-09;Électrocution d'une personne montée en toiture d'un train de Voyageurs, Il s'agit d'un voyageur clandestin souhaitant accéder au territoire français depuis l’Italie.;Provence-Alpes-Côte d'Azur;Menton (06);5.0
+Accident de personne;2023-01-30;heurt d'une personne sur un passage à niveau;Île-de-France;Tacoignières richebourg (78);5.0
+Collision passage à niveau;2023-01-31;collision d'un train contre une voiture;Auvergne-Rhône-Alpes;Entre perrignier et thonon (74);5.0
+Réseau;2023-02-01;Absence de délivrance d'ordre sur un PN en dérangement pour deux trains de l'EF Voyageurs;Île-de-France;Nointel (95);4.0
+Accident de personne;2023-02-16;un TGV assurant la liaison Paris Montparnasse – Nantes heurte mortellement un piéton . La victime, âgée de 19 ans, était accompagnée de quatre autres jeunes qui se sont aventurés aux abords des voies. Les constatations sur le lieu permettent d’écarter tout acte de malveillance, de vol ou de dégradation imputable à ce groupe. L’enquête de la Gendarmerie se poursuit;Pays de la Loire;Saint Georges sur Loire (49);5.0
+Accident de personne;2023-02-19;Accident mortel d'une personne heurtée par un train de voyageurs;Auvergne-Rhône-Alpes;Entre saint paul de verax et servas-lent (01);5.0
+Voyageurs;2023-02-19;Non application des prescriptions réglementaires après allumage d'une lampe détection Incendie à bord d'un TGV (poursuite sans arrêt jusqu'au terminus);Île-de-France;Marolles (94);4.0
+Réseau;2023-02-20;réouverture intempestive d’un Passage à Niveau à Signalisation Automatique et Lumineuse pendant son franchissement par le dernier véhicule d’un train.;Hauts-de-France;Montigny-en-Ostrevent (59);4.0
+Réseau;2023-02-21;Expédition de 2 circulations Sans les Ordres Prévus de marche au pas pour le passage sur une aiguille de Voie Principale dans la direction contrôlée.;Provence-Alpes-Côte d'Azur;Avignon-Fontcouverte (84);4.0
+Réseau;2023-03-04;Expédition d'un train de  SNCF Voyageurs sans ordre prévu, suite à divagation de bestiaux;Bretagne;Entre LaGouesnière & LaFresnais (35);4.0
+Réseau;2023-03-08;Défauts de géométrie imposant l'arrêt des circulations détectés lors de l'enregistrement des voies effectué à l'aide d'un engin de mesure;Hauts-de-France;Longueau (80);4.0
+Voyageurs;2023-03-21;Franchissement d'un Carré Violet par une evolution de TER  avec engagement du garage franc. Oubli par le conducteur de l'existence d'un signal d'arrêt intermédiaire sur son parcours. Simultanément un autre train quittait la gare  et se dirigeait vers le même itinéraire que l’évolution. Il a été arrêté par un carré intermédiaire qui s’est refermé automatiquement suite à l’engagement de la voie par l’évolution.;Auvergne-Rhône-Alpes;Annemasse (74);4.0
+Accident de personne;2023-03-21;Heurt mortel dune personne sur un passage à niveau  (PN public isolé pour piétons avec portillon);Grand Est;Saint-Dizier (52);5.0
+Réseau;2023-03-29;Sortie intempestive du domaine protégé d'un train de travaux, sans conséquence;Île-de-France;Le Landy (93);4.0
+Réseau;2023-04-05;Dégagement intempestif du domaine protégé par un train de travaux de ramassage de rail puis franchissement d'un carré violet;Île-de-France;Mitry Claye (77);4.0
+Accident de personne;2023-04-06;freinage d'urgence d'un TGV suite à la présence d'une personne sur TVP sans heurt. Gares et Connexion témoin mais pas d'avis.;Grand Est;Bassens (33);4.0
+Réseau;2023-04-11;autorisation de franchissement d'un signal carré sans vérification;Auvergne-Rhône-Alpes;La roche sur foron (74);4.0
+Accident de personne;2023-04-24;Découverte d'un corps par le conducteur d'un train (EF SNCF Voyageurs), heurté par une circulation non identifiée;Île-de-France;Bièvres (91);5.0
+Accident de personne;2023-04-27;Collision de 2 personnes sur une traversée piétonne (tramway T4);Île-de-France;Clichy sous Bois (93);5.0
+Electrisation tiers;2023-05-02;Electrisation - Une personne est tombée depuis un Pont Route sur la toiture d'un train;Grand Est;Champigneulles (54);5.0
+Collision passage à niveau;2023-05-02;Heurt d'un véhicule routier sur un passage à niveau par un engin moteur du fret (dégats matériels et un blessé);Nouvelle-Aquitaine;Peyrehorade (40);5.0
+Electrisation tiers;2023-05-12;électrisation d'un adolescent sur le toit d'un wagon en stationnement suite à son intrusion dans les emprises;Grand Est;Metz  (57);5.0
+Accident de personne;2023-05-13;personne heurtée par un TGV en tentant de traverser devant  sur un Passage à Niveau;Nouvelle-Aquitaine;Langon (33);5.0
+Réseau;2023-05-16;Expédition d'un train de voyaguers sans formulaire RATO (RATé d'Ouverture pour une ou plusieurs barrière(s) d'un passage à niveau) au franchissement d'un Passage à Niveau.;Grand Est;Arches (88);4.0
+Réseau;2023-05-17;Défaut de géométrie sur Voie Principale détecté lors d'un enregistrement officiel réalisé à l'aide d'un Engin de Surveillance des Voies et imposant l'arrêt des circulations;Grand Est;Sainte-Marguerite (88);4.0
+Réseau;2023-05-20;Signal présentant une indication voie libre au lieu de rappel de ralentissement 60 à l'insu de l'agent circulation;Provence-Alpes-Côte d'Azur;La Pauline-Hyères (83);4.0
+Réseau;2023-05-25;Défaut de géométrie imposant l’arrêt de circulation détecté par engin de mesures en tournée supplémentaire.;Hauts-de-France;Laon (Dépt. 02);4.0
+Réseau;2023-06-07;Autorisation de franchissement sans vérification délivré à un train du GI sur domaine exploité;Auvergne-Rhône-Alpes;Aix-Les-Bains (73);4.0
+Réseau;2023-06-10;anomalie Passage à Niveau;Hauts-de-France;Saint-Pol sur Ternoise (62);4.0
+Réseau;2023-06-12;Désordre d'ouvrage en terre suite à un glissement terrain, heurt d'un arbre par une circulation;Auvergne-Rhône-Alpes;Entre Rives & Réaumont (38);4.0
+Réseau;2023-06-19;Défaillance de voie découverte suite à tournée Mauzin, sur des aiguilles de voies principales;Bretagne;Saint Brieuc (22);4.0
+Réseau;2023-06-20;Autorisation de Franchissement sans Vérification Complète donnée à un train de Fret SNCF, par un agent circulation, pour une circulation du train à contre sens.;Nouvelle-Aquitaine;Bordeaux PCD zone nord (33;4.0
+Voyageurs;2023-07-03;Franchissement interdit d'une limite de gare par une manœuvre;Occitanie;Albi (81);4.0
+Réseau;2023-07-03;Expédition d'un train de l'EF SNCF-Voyageurs sans ordre de limitation de vitesse suite à mouvement anormal paraissant provenir de la voie.;Provence-Alpes-Côte d'Azur;Les Arcs-Draguignan (83);4.0
+Réseau;2023-07-13;Défaillance de voie avec valeur d'arrêt, découverte à la suite d’une tournée officielle SIM effectuée entre (86) ,;NA;Entre Neuville et Chalandray (86);4.0
+Réseau;2023-07-17;Défaillance de voie avec valeur d'arrêt, découverte à la suite du passage du MAUZIN sur la voie unique (VP);N;Entre Voves et Fains-La-Folie (28);4.0
+Réseau;2023-07-21;"Franchissement intempestif d'une pancarte ""Limite de Manœuvre"" et engagement d'un domaine fermé par une manœuvre non guidée de l'EF SNCF-Voyageurs.";Auvergne-Rhône-Alpes;Lapeyrouse;4.0
+Réseau;2023-07-24;Un agent circulation autorise le franchissement fermé d'un Sémaphore de Bloc Automatque à Permissivité Restrictive  en lieu et place du régulateur, gérant ce signal;Nouvelle-Aquitaine;Entre Agen et Tonneins (47);4.0
+Réseau;2023-07-25;rupture d'une lame d'un appareil de voie imposant l'arrêt des circulations;Hauts-de-France;Feignies (59);4.0
+Réseau;2023-07-27;Arrêt des circulations sur voie principale suite à détection d'un défaut d'écartement;Centre-Val de Loire;Tours (37);4.0
+Réseau;2023-07-31;Défaut de mesure de protection avec passage d'une circulation dans un domaine considéré comme fermé par le service de la maintenance;Hauts-de-France;Compiègne (60);4.0
+Réseau;2023-08-17;Incident de signalisation : contacts pontés dans un commutateur à clé S pouvant entrainer un dérangement grave contraire à la sécurité.;Île-de-France;Paris Nord;4.0
+FRET;2023-08-21;Déraillement sans engagement de VP faisceau écartement ibérique à Hendaye, 60000 endommagé;Nouvelle-Aquitaine;Hendaye (64);4.0
+Accident de personne;2023-08-27;Heurt d’une personne en gare par train Intercités (personne blessée évacuée par hélicoptère);Auvergne-Rhône-Alpes;Bessay-sur-Allier (Dépt : 03);5.0
+Accident de personne;2023-08-27;Heurt non mortel d'une personne qui marche au milieu de la voie par le train n°890028 (TRAM-TRAIN) dans le tunnel de Loyasse;Auvergne-Rhône-Alpes;Entre Lyon-Saint-Paul et Lyon-Gorge-de-Loup (Dépt : 69);5.0
+Collision passage à niveau;2023-09-01;déraillement d'un TER suite collision avec  un camion sur un  PN;PdL;entre Chalonnes-sur-Loire et Chemillé en Anjou (49);5.0
+Réseau;2023-09-04;incendie de l'engin moteur d'un train de réseau.signalé par des voyageurs présents sur le quai. Intervention des pompiers;Occitanie;Carbonne (31);4.0
+Accident de personne;2023-09-06;Projection d'une personne par effet de souffle à un passage à niveau;Hauts-de-France;Thourotte (60);5.0
+Réseau;2023-09-07;Heurt d'un chariot lorry, en dehors du domaine fermé, par un train de fret. Pas de victime;Bourgogne-Franche-Comté;Laroche - Migennes Poste 1 (89);4.0
+Réseau;2023-09-07;Défauts de géométrie sur Voie Principale détectés lors d'une tournée d'enregistrement;Grand Est;Schiltingheim (67);4.0
+Réseau;2023-09-10;mouvement inverse du sens normal sans prise de mesure par l'agent circulation lors de l'arrêt hors quai d'un train de voyageurs;Occitanie;Granaque (31);4.0
+Réseau;2023-09-11;Mouvement intempestif inverse du sens normal sur voie principale non banalisée sans prise de mesure de protection;Centre-Val de Loire;Vierzon (18);4.0
+Accident de personne;2023-09-18;accident mortel d'une personne à la traversée d'une TVP;Occitanie;Saint Césaire (30);5.0
+Accident de personne;2023-09-27;heurt d'une personne heurtée par un train de voyageurs à proximité d'un passage à niveau;Normandie;Coudray-Rabut;5.0
+Réseau;2023-09-28;Interdiction de circulation sur Voie Principale suite à détection de défauts d'écartement par engin de mesure;Centre-Val de Loire;Chateaudun (28);4.0
+Accident de personne;2023-10-01;Heurt présumé d’une personne par l’élément d’un train lors de son passage sur un Passage à Niveau;Hauts-de-France;Beuvrages (59);5.0
+Réseau;2023-10-04;Expédition d'un TGV sans ordre prévu, suite à mise hors service DBC;Pays de la Loire;entre Connerré et Dollon (72);4.0
+Accident de personne;2023-10-05;Heurt mortel sur TVP avec train croiseur sans arrêt en gare;Occitanie;Escalquens (31);5.0
+Accident de personne;2023-10-11;Heurt accidentel et mortel d'une personne par un train de voyageurs sur un passage à niveau;Île-de-France;Hardricourt (78);5.0
+Réseau;2023-10-19;Franchissement d'un Signal d'arrêt  fermé (carré violet de type bas) sur une voie principale par une manœuvre de SNCF Réseau avec engagement du point protégé;Pays de la Loire;Sablé-sur-Sarthe (72);4.0
+Réseau;2023-10-25;Erreur d'étude  contraire à la sécurité détectée sur les installations en service KVB (Contrôle vitesse par balise au sol).;Île-de-France;Villeneuve St Georges (Dépt. 94);4.0
+Accident de personne;2023-11-03;Heurt d'une personne par un train de voyageurs au niveau du quai en gare;Île-de-France;Musée d'orsay (75);5.0
+Réseau;2023-11-04;Autorisation de franchissement sans vérification délivrée à un  train  de SNCF Voyageurs (erreur quant au signal concerné);Occitanie;Rabastens (81);4.0
+Réseau;2023-11-08;Bivoie, Déraillement de plusieurs wagons sur un appareil de voie lors de la réception d'un train de fret, l'aiguilleur s'étant trompé de levier d'aiguille;Grand Est;Colmar (68);5.0
+Collision passage à niveau;2023-11-08;Heurt d'une voiture par un train de voyageurs lors du franchissement d'un passage à niveau;Hauts-de-France;Capelle la grande (59);5.0
+Accident de personne;2023-11-09;découverte d'un corps à proximité d'un Passage à Niveau, probable heurt;Occitanie;Albi (81);5.0
+Réseau;2023-11-09;autorisation de franchissement d'un signal remise à un train de voyaguers sans vérification;Occitanie;Lexos  (12);4.0
+Réseau;2023-11-16;remise d'un ordre erroné (erreur zone de restriction) à deux trains de voyageurs;Nouvelle-Aquitaine;la coquille (24);4.0
+Accident de personne;2023-11-19;accident de personne;Île-de-France;aubervilliers (93);5.0
+Réseau;2023-11-20;défaut de géométrie voie avec valeur d'arrêt détecté lors d'une tournée  d'enregistrement officielle;Île-de-France;monsoult (95);4.0
+Réseau;2023-11-22;Défauts de géométrie de la voie nécessitant l'arrêt des circulations.;Hauts-de-France;Maubeuge (59);4.0
+Accident de personne;2023-11-29;heurt d'une personne hors zone de quai par un train vide de voyageurs;Île-de-France;juvisy (91);5.0
+Voyageurs;2023-11-30;dépassement de  la pancarte Tête de Train en gare par un TER  suite à un Enrayage Important. . L’arrêt est obtenu après franchissement d'un Carré (ouvert) , de la Traversée de Voie par le Public et d'un Passage à Niveau;Grand Est;Baccarat (88);4.0
+Cause Externe;2023-12-01;Interruption de la circulation suite à une coulée de boue;Auvergne-Rhône-Alpes;Charix Lalleyriat (01);4.0
+Réseau;2023-12-03;Rupture de rail sur voie principale détecté par les circuits de voie;Auvergne-Rhône-Alpes;Lyon Saint Clair (69);4.0
+Collision passage à niveau;2023-12-04;Heurt d'une voiture sur un Passage à Niveau;Occitanie;Montrabé (31);5.0
+Evénement tiers;2023-12-09;Incendie d'un wagon de train due a priori à l'éléctrisation d'une personne se trouvant sur le toit. La personne  aurait provoqué un arc électrique, elle est décédée.;Hauts-de-France;Calais Frethun (62);5.0
+Réseau;2023-12-11;Déraillement sur Voie Principale avec engagement de la Voie Principale voisine lors d'une manoeuvre de l'EF SNCF-Voyageurs à la suite d'un bi-voie provoqué par l'agent circulation;Provence-Alpes-Côte d'Azur;Sisteron (04);4.0
+Accident de personne;2023-12-11;accident de personne;Hauts-de-France;St Just en chaussée (60);5.0
+Cause Externe;2023-12-15;Eboulement important sur une ligne à voie unique;Auvergne-Rhône-Alpes;Monistrot d'Allier (43);4.0
+Accident de personne;2023-12-18;une personne a été heurtée mortellement par une rame de RER en gare de Rosny-sous-Bois sur les lignes du RER E et du Transilien P. Selon les premières investigations, la personne aurait perdu l’équilibre sur le quai;Île-de-France;Rosny sous bois (93);5.0
+Accident de personne;2023-12-19;Heurt d'une personne par une circulation Ferroviaire sur une Traversée de Voie par le  Public;Hauts-de-France;Haubourdin (59);5.0
+Accident de personne;2023-12-20;Découverte d'un corps dans la voie signalée par un conducteur de train de voyageurs;Hauts-de-France;Saint Omer (62);5.0
+Collision passage à niveau;2024-01-03;heurt mortel sur un passage à niveau piéton par un train de voyageurs;Nouvelle-Aquitaine;Bayonne (64);5.0
+Accident de personne;2024-01-16;Heurt mortel d'une personne  par un train de voyageurs.;Occitanie;Castelnaudary (11);5.0
+Réseau;2024-01-19;Déraillement de trois wagons de l'EF DB Cargo France sur la voie mère de la zone industrielle;Hauts-de-France;Calais (62);5.0
+Réseau;2024-01-31;Découverte sur voie principale d'un défaut d'écartement par un enregistrement officiel;Pays de la Loire;Le Mans (72);4.0
+Accident de personne;2024-01-31;heurt d'une personne par un train de l'EF Fret  Captrain (victime blessée);Île-de-France;Evry (91);5.0
+Réseau;2024-02-01;Délivrance d'un bulletin Carré Block automatique alors que la fermeture carré était toujours en action;Hauts-de-France;Crépy-en-Valois (60);4.0
+Réseau;2024-02-07;Après des travaux, oubli de remise en service d'un signal Carré sur Voie principale. Croix de St-André encore en place et signal éteint.;Auvergne-Rhône-Alpes;Lyon-Guillotière (69);4.0
+Accident de personne;2024-02-13;accident de personne hors zone de gare;Île-de-France;Aulnay sous bois;5.0
+Réseau;2024-02-13;"Incident de signalisation, dérangement grave dans la serrure centrale ""S""";NA;Egletons (19);4.0
+Réseau;2024-02-15;Délivrance d'une autorisation de franchissement pour un  signal Carré fermé, sur Voie  Principale, à un train du gestionnaire de l'Infrastructure;Île-de-France;Stains (93);4.0
+Réseau;2024-03-26;sortie d'un domaine protégé sans autorisation sur voie principale;Auvergne-Rhône-Alpes;Montelimar (69);4.0
+Réseau;2024-03-27;Expédition de deux trains Sans l'Ordre Prévu suite à l'absence de contrôle d'aiguille;Bretagne;Chateaubourg (35);4.0
+Réseau;2024-03-29;Dégagement intempestif d'un domaine fermé par un Train de TravauX de SNCF Réseau.;Occitanie;Sete (34);4.0
+Réseau;2024-03-30;Autorisation de Franchissement Sans Vérification d'un signal carré délivrée à un train de Voyageurs par l'Agent Circulation  sans assurance de la libération d'une zone libre.;Occitanie;Capdenac (12);4.0
+Voyageurs;2024-04-05;Le conducteur d'un TER observe l’arrêt que lui impose la signalisation présentée et se fait reconnaître auprès du poste d’aiguillage par liaison radio. L’Agent Circulation commande l’itinéraire jusqu’au signal suivant et le conducteur observe le changement d’état du signal devant lui qui passe à l’avertissement. Le train reprend sa marche jusqu’à atteindre progressivement la vitesse d’environ 30 km/h quand le conducteur est subitement interpellé par le bruit provoqué par l’éclatement d’un détonateur et par la prise en charge par le système KVB. Le train s’immobilise une quarantaine de mètres en aval du signal lumineux en engageant le passage à niveau.;Hauts-de-France;Aulnoye-Aymeries (59);4.0
+Accident de personne;2024-04-06;découverte d'un corps hors zone de quai par le conducteur d'un train de voyageurs;Bourgogne-Franche-Comté;Sens (89);5.0
+Voyageurs;2024-04-20;Défaut d'immobilisation et Mouvement intempestif d'un train Transilien puis Franchissement d'un Signal d'Arrêt  avec engagement du point protégé;Île-de-France;Paris Montparnasse (75);4.0
+Cause Externe;2024-04-28;Déraillement d'un train TER transportant des voyageurs suite à un glissement de terrain;Auvergne-Rhône-Alpes;Millery (69);5.0
+Collision passage à niveau;2024-04-30;heurt d'une voiture sur un Passage à Niveau par un train de Voyageurs entrainant le décès du conducteur du véhicule routier;Nouvelle-Aquitaine;St Pé de bigorre (65);5.0
+Réseau;2024-05-01;Non respect de procédure suite à absence de signalisation arrière d'un train de de Fret SNCF;Nouvelle-Aquitaine;Dax (40);4.0
+Accident de personne;2024-05-15;Heurt en pleine voie d'une personne par un train de l'EF SNCF Voyageurs;Nouvelle-Aquitaine;Trentel (47);5.0
+Réseau;2024-05-22;Franchissement barrières ouvertes d'une TN  par une manoeuvre guidée de SNCF Réseau effectuée par un prestataire.;Occitanie;St Jory P10 (31);4.0
+Réseau;2024-05-23;Défauts de géométrie sur Voie Principale détectés lors de l'enregistrement officiel des voies à l'aide d'un Engin de Surveillance des Voies et imposant l'arrêt des circulations.;Grand Est;Lérouville (55);4.0
+Voyageurs;2024-05-27;Incendie avec demande de secours sur Voie Principale;Nouvelle-Aquitaine;Ste-Foy-la-Grande (33);4.0
+Réseau;2024-06-25;Dégagement intempestif d'un domaine fermé par une draisine;Normandie;Caen (14);4.0
+Réseau;2024-07-03;Mouvement intempestif inverse du sens normal sur voie principale;Île-de-France;Montigny (95);4.0
+Voyageurs;2024-07-03;Service achevé transmis alors qu'un prestation Personne en Situation de Handicap est en cours;Nouvelle-Aquitaine;Bordeaux(33);4.0
+Accident de personne;2024-07-11;Heurt avec blessure d'une personne en pleine voie heurtée par un train de Voyageurs;Auvergne-Rhône-Alpes;Saint Etienne;5.0
+Voyageurs;2024-07-18;Franchissement d'un Semaphore de BAL à 114km/h avec pénétration en canton occupé.;Provence-Alpes-Côte d'Azur;La Pauline (83);4.0
+Réseau;2024-08-01;Sortie intempestive du domaine protégé sur VP n°1 d’un lorry caténaire de SNCF Réseau;NA;Lamothe (33);4.0
+Réseau;2024-08-01;Commutateur de ZEP 423 inopérant dans la protection consécutive à une erreur d’étude;IdF;La Défense (92);4.0
+Réseau;2024-08-12;Franchissement intempestif du carré violet Cv 403 fermé et dégagement intempestif du domaine fermé par un TTx;Grand Est;Charleville-Mézières (08);5.0
+Collision passage à niveau;2024-08-12;Heurt d’un quad au PN 66 par le train 870318 (EF SNCF Voyageurs) – 1 blessé grave;Occitanie;Entre Auch et Aubiet PL (32);5.0
+Accident de personne;2024-08-31;Heurt mortel d’un cycliste par un train de Voyageurs sur un passage à niveau piéton;Nouvelle-Aquitaine;entre dax et bayonne (64);5.0
+Réseau;2024-08-31;Dérangement contraire à la sécurité : destruction inopinée d'un itinéraire lors de l'arrivée d'un train en gare de Narbonne.;Occitanie;Narbonne (11);4.0
+Voyageurs;2024-08-31;Départ sans autorisation de mise en mouvement;Occitanie;Fonpédrouse (66);4.0
+Collision passage à niveau;2024-09-12;Heurt d’un scooter par un train de Voyageurs sur un Passage à Niveau;Bretagne;Entre Hennebont et Lorient (56);5.0
+Collision passage à niveau;2024-09-19;Heurt d’un personne en scooter (blessé gravement)  par un train de Voyageurs sur un Passage à Niveau;Provence-Alpes-Côte d'Azur;Aix en Provence (13);5.0
+Voyageurs;2024-09-22;Franchissement d'un signal carré fermé sur Voie Principale  avec engagement du point protégé;Île-de-France;Ermont Eaubonne (95);4.0
+Réseau;2024-09-26;Non reconnaissance de la LGV sur 29 kms et circulation d'un train de l'EF SNCF Voyageurs sans limitation de vitesse à 230 km/h.;Nouvelle-Aquitaine;Entre Ambares (33) et Clerac;4.0
+Accident de personne;2024-10-01;Accident mortel d'une personne heurtée par un train de Voyageurs;Provence-Alpes-Côte d'Azur;Fréjus (83);5.0
+Voyageurs;2024-10-05;Mise en mouvement d'une manœuvre non guidée d'un train de Voyageurs en direction d'une circulation en instance de réception  vers une voie de service;Occitanie;Toulouse (31);4.0
+Cause Externe;2024-10-09;Collision contre un arbre tombé sur la voie d'un train de Voyageurs sur voie banalisée puis déraillement sur voie principale;Centre-Val de Loire;Rivarennes (37);4.0
+Réseau;2024-10-09;Franchissement Sans Autorisation  d' un Carré violet de type bas (Cv) par un train de SNCF Voyageurs, sur Voie Unique;Auvergne-Rhône-Alpes;Viescamp (15);4.0
+Cause Externe;2024-10-17;Désordre d'ouvrage en terre - 2 Glissements de terrain sur voie 2 faisant obstacle aux circulations suite fortes précipitations (tempête Leslie);Centre-Val de Loire;Entre Chouzy-PL (41) et Blois (41);4.0
+Cause Externe;2024-10-17;Collision d'un train de Voyageurs avec un arbre tombé sur la voie;Nouvelle-Aquitaine;Entre Itxassou et Cambo (64);4.0
+Réseau;2024-10-18;Déraillement d'un Train de Travaux  sur Voie Principale;Auvergne-Rhône-Alpes;Entre Montmélian (73) et st Pierre d' Albigny (73);4.0
+Cause Externe;2024-10-25;Déraillement d'un train de SNCF Voyageurs suite heurt arbre et glissement de terrain. Dégâts matériels et blessé léger. Fortes intempéries.;Occitanie;Entre Génolhac et Villefort (48);5.0
+Accident de personne;2024-10-27;Heurt d'une personne sur un PN Voyageurs;Île-de-France;Igny (91);5.0
+Réseau;2024-10-30;Franchissement d'un Passage à Niveau ouvert par un train de l'EF SNCF Voyageurs, en cours de freinage - Sans conséquence;Auvergne-Rhône-Alpes;Lacapelle Viescamp (15);4.0
+Collision passage à niveau;2024-10-31;Collision sur un Passage à Niveau;Hauts-de-France;Gratibus (80);5.0
+Electrocution;2024-11-07;Electrisation d’un individu en gare de Paris Nord suite intrusion en zone Transmanche;Île-de-France;Paris Nord;5.0
+Accident de personne;2024-11-08;Collision d'une personne sur un Passage à Niveau par un train de Voyageurs;Pays de la Loire;Nouan le fizelier (44);5.0
+Fret;2024-11-12;Déraillement avec engagement des Voies Principales;Provence-Alpes-Côte d'Azur;Miramas (13);6.0
+Réseau;2024-11-18;transmission au conducteur d'un train de Voyageurs d'un formulaire Raté d'Ouverture erroné pour plusieurs barrières de Passage à Niveau;Grand Est;Troyes (10);4.0
+Réseau;2024-11-20;Défaut de géométrie détecté lors d'un enregistrement officiel par un engin de mesure nécessitant l'arrêt des circulations;Hauts-de-France;Somain (59);4.0
+Collision passage à niveau;2024-11-22;Déraillement suite au heurt d'une voiture vide par un train de Voyageurs sur un Passage à Niveau;Occitanie;entre bazièges et Montlaur (31);4.0
+Accident de personne;2024-11-25;Heurt mortel d'une personne cheminant dans les voies avec un vélo par un train de l'EF Voyageurs;Occitanie;Entre Ampalot et Saint Agne (31);5.0
+Réseau;2024-11-29;Dépassement d'un SAM de chantier sur domaine fermé par un train de travaux;Centre-Val de Loire;Nevers (58);4.0
+Accident de personne;2024-12-03;Heurt mortel d'une personne en pleine voie;Pays de la Loire;Laval (53);5.0
+Réseau;2024-12-06;Autorisation de franchissement sans vérification;Occitanie;Tournay (65);4.0
+Réseau;2024-12-17;Franchissement intempestif d'un Guidon d'Arrêt fermé d'un train de Voyageurs;Nouvelle-Aquitaine;Blanquefort (33);4.0
+Voyageurs;2024-12-22;Non respect vitesse limite de ligne par un TER;Auvergne-Rhône-Alpes;Charbonnière (69);4.0
+Cause Externe;2024-12-24;Incident de signalisation: dérangement d'un Passage à Niveau à la suite d'un accident de la route;Grand Est;Tieffenbach (67);4.0
+Réseau;2025-01-08;Découverte d'un rail cassé;Hauts-de-France;Entre Villers_x0002_Cotterêts et Vaumoise (02);4.0
+Cause Externe;2025-01-10;Heurt par un train de Voyageurs de cables de signalisation engageant le gabarit suite à un acte de malveillance (dégats supérieurs à 200k€);Nouvelle-Aquitaine;Entre Morcenx et Labouheyre (40);5.0
+Voyageurs;2025-01-12;Dégagement de fumée dans un train intercités avec intervention des pompieres et évacuation;Nouvelle-Aquitaine;Bayonne (64);4.0
+Cause Externe;2025-01-16;Incendie en toiture dans un train de l'EF SNCF Voyageurs entre Le Perray et Les Essarts Le Roi;Île-de-France;Le perray;4.0
+Réseau;2025-01-17;Franchissement d'un Passage à Niveau barrières ouvertes;Occitanie;Lannemezan (65);4.0
+Voyageurs;2025-01-17;Le conducteur d'un TER s’arrête en gare pour son arrêt commercial. Il n'observe pas les images des caméras Equipement à Agent Seul effectue en ouvrant les portes du côté de l'entrevoie au lieu du côté quai. 2 voyageurs descendus du train du mauvais côté, se retrouvant dans l'entrevoie.;Normandie;La loupe (28);4.0
+Réseau;2025-01-21;Circullation d'un véhicule non autorisé sans avis de remise en exploitation;Centre-Val de Loire;Les Aubrais (45);4.0
+Electrisation;2025-01-22;électrocution d'un agent d'une entreprise extérieure sur un chantier suite rapide caténaire;Provence-Alpes-Côte d'Azur;Toulon (83);5.0
+Réseau;2025-01-22;Découverte d'un défaut de paramétrage sur un poste lors d'une opération de protection de demande de travaux - Sans conséquence;Provence-Alpes-Côte d'Azur;Bollene (84);4.0
+Collision passage à niveau;2025-02-04;Collision d'un véhicule routier par un train de Voyageurs au franchissement d'un Passage à Niveau;Grand Est;Hundling (57);5.0
+Accident de personne;2025-02-14;Heurt d'une personne (blessée gravement) par in train de voyageurs;Île-de-France;Changis Saint Jean (77);5.0
+Réseau;2025-02-24;Franchissement d'un Passage à Niveau ouvert en gare  par un train désherbeur  de SNCF RESEAU;Auvergne-Rhône-Alpes;Sain-Bel (69);4.0
+Réseau;2025-02-26;Raté de fermeture d'un Passage à Niveau signalé par le conducteur d'un train de l'EF SNCF Voyageurs.;Grand Est;Autigny-le-Grand (52);4.0
+Réseau;2025-03-07;Expédition sans ordre prévu lors d'une situation de dérangement d'appareil de voie;Normandie;Oissel (76);4.0
+Accident de personne;2025-03-10;heurt accidentel d'une personne sur un Passage à Niveau par un train de Voyageurs;Auvergne-Rhône-Alpes;Romans sur Isère (38);5.0
+Réseau;2025-03-12;Défaut de géométrie sur aiguille sur Voie Principale au passage du train de mesure de SNCF Réseau;Occitanie;Béziers (34);4.0
+Réseau;2025-03-22;Sortie intempestive d'un Train de Travaux d'un domaine fermé en gare;Grand Est;Mulhouse-Dornach (68);4.0
+Cause Externe;2025-03-23;heurt d'un sanglier;Hauts-de-France;LGV Nord;
+Réseau;2025-03-26;sortie  intempestive d'un domaine fermé d'un train de travaux sur voie principale;Île-de-France;Achères (78);4.0
+Voyageurs;2025-03-26;Collision d'une rame TER suite défaut d'immobilisation  d'une locomotive dans un dépôt;Auvergne-Rhône-Alpes;Chambéry (73);4.0
+Réseau;2023-01-10;Autorisations de Franchissement d'un Carré  fermé, Bulletins CBa délivrées à deux trains ans vérification des conditions d'ouverture;Pays de la Loire;Cordemais(44);4.0
+Réseau;2023-01-17;franchissement intempestif d'un TLC (Tableau Lumineux de Correspondance pour voies convergentes) en position de fermeture.;Normandie;Cherbourg (50);4.0
+Voyageurs;2023-01-26;Une voyageuse  sur une rame corail signale à un  ASCT l'ouverture de la dernière porte d'intercirculation, celle donnant accès sur la voie. L'ASCT, contacte le conducteur par téléphone et lui demande de s'arrêter d'urgence. Selon les échanges entre le conducteur et l'ASCT, ce dernier a constaté la fermeture de cette porte lors de sa dernière ronde de sécurité avant départ;Centre-Val de Loire;Châtillon/Loire (45);4.0
+Réseau;2023-02-10;Heurt du bagage et blessure à la main d'une voyageuse sur le quai et d'un train TER croiseur par une pièce métallique d'un train du gestionnaire de l'infrastructure qui engageait le gabarit;Occitanie;Narbonne;4.0
+Réseau;2023-02-12;Incendie d’une pelle Rail-Route de SNCF Réseau sur domaine fermé provoquant la rupture des caténaires voies 1 et 2 avec intervention des pompiers;Hauts-de-France;Marquise Rinxent (62);4.0
+Réseau;2023-02-13;Fermeture tardive d'un PN SAL à l'approche d'un train TER.;Occitanie;Entre St-Césaire et Vauvert (30);4.0
+Collision passage à niveau;2023-02-14;Collision d’un véhicule routier abandonné sur un PN;Grand Est;Aulnois (88);5.0
+Réseau;2023-02-17;Franchissement d'un Passage à Niveau à Signalisation Automatique et Lumineuse par 37 circulations, feux routiers éteints et barrières fermées.;Île-de-France;Mareil sur Mauldre (78);4.0
+Accident de personne;2023-02-22;accident de personne sur un passage à niveau;Occitanie;Auterive (09);4.0
+Collision hors passage à niveau;2023-03-10;Collision d'un TER  contre un obstacle (arbre - intempéries) sur Voie Unique avec avaries matériel roulant & demande de secours;Normandie;Entre Bréauté-Beuzeville & Grainville (27);4.0
+Accident de personne;2023-03-17;découverte d'un corps par une circulation vide de voyageurs;Bretagne;gare les lacs (35);5.0
+Réseau;2023-03-23;Franchissement d'un passage à niveau SAL feux présentés et barrières levées par une bourreuse;Occitanie;Entre leucatte et port la nouvelle (11);4.0
+Incident Caténaire;2023-03-31;Incident (avaries) Caténaire  + avaries pantographe matériel d'un TER;Pays de la Loire;Entre Chantenay & Basse-Indre Saint-Herblain(72);5.0
+Réseau;2023-03-31;Défaut de géométrie voie en valeur d'arrêt découvert lors d'un enregistrement Mauzin en tournée officielle;Occitanie;: Entre Lannemezan et Labarthe (65);4.0
+Accident de personne;2023-04-08;Chute accidentelle et mortelle d'une personne entre le quai et un train de voyageurs;Île-de-France;Thun le paradis (78);5.0
+Accident de personne;2023-04-13;Accident mortel de personne à un Passage à Niveau au passage d'un train de voyageurs;Île-de-France;Frépillon (95);5.0
+Collision passage à niveau;2023-04-20;Heurt d'un véhicule routier sur un passage à niveau;Grand Est;Plesnois (52);5.0
+Accident de personne;2023-04-24;Heurt d’une personne par un train de Voyageurs sur un Passage à Niveau;Grand Est;Ville-sous-la-Ferté (10);5.0
+Accident de personne;2023-05-05;Accident Individuel de Personne (chute) au départ d'un transilien sur une voie à quai;Île-de-France;Vitry (94);5.0
+Réseau;2023-05-16;talonnage, bivoie et déraillement d'un train meuleur de rails sur voie principale;Auvergne-Rhône-Alpes;Chasse sur rhone (38);5.0
+Accident de personne;2023-05-20;une jeune femme a été retrouvée grièvement blessée sur les voies LGV après St-Raphaël. Elle est décédée à l’hôpital plusieurs heures après. Elle était descendue sur le quai à St-Raphaël pour fumer, puis se rendant compte que le train allait repartir, que les portes étaient fermées, elle s'était  accrochée au soufflet entre les rames . Elle est tombée entre les voies après 17  kilomètres ainsi accrochée au train.;Provence-Alpes-Côte d'Azur;Le trayas (83);5.0
+Réseau;2023-05-24;Défaut de géométrie détecté lors d'un enregistrement supplémentaire par un engin lourd de mesure et imposant l'arrêt des circulations;Hauts-de-France;Cambrai (59);4.0
+Réseau;2023-05-25;Signal resté annulé à tort après des travaux, découvert à la suite du signalement par le conducteur d'un train de Voyageurs.;Hauts-de-France;Saint Omer (62);4.0
+Accident de personne;2023-05-25;Accident Individuel de Personne - heurt par un Train Transilien;Île-de-France;Entre Juziers PL & Meulan (78);5.0
+Accident de personne;2023-05-29;Accident Individuel de Personne - heurt par un TER  sur une voie à quai.  heurt d’une personne suite à une traversée hors ouvrage dénivelé en gare, personne blessée, heurt au niveau de la cuisse.;Île-de-France;Gargenville (78);5.0
+Accident de personne;2023-05-30;Heurt d'une personne sur un passage à niveau par un TGV, personne gravement blessée;Nouvelle-Aquitaine;Cérons (33);5.0
+Réseau;2023-05-05;Défaut de mesures de protection et expédition de plusieurs trains sans ordres à la suite d'un bris de barrière à un Passage à Niveau;Grand Est;Sedan (08);4.0
+Incident Caténaire;2023-06-08;Collision d'un train contre des éléments caténaires arrachés suite à un incident caténaire après passage d'un autre train;Île-de-France;Paris Nord;4.0
+Réseau;2023-06-08;Annonce téléphonique et délibrance d'un bulletin S alors que le canton est occupé;Nouvelle-Aquitaine;Coarraze nay (64);4.0
+Electrisation tiers;2023-06-09;électrisation après chute depuis un pont routier;Grand Est;Mulhouse (68);5.0
+Accident de personne;2023-06-14;accident de personne;Provence-Alpes-Côte d'Azur;La seyne sur mer;5.0
+Réseau;2023-06-15;Autorisation de franchissement sans vérification délivrée à un  train  de SNCF Voyageurs.;Occitanie;Boussens (31);4.0
+Collision passage à niveau;2023-06-19;Collision sur un Passage à Niveau entre un train de VOYAGEURS et une remorque de transport exceptionnel routier - plusieurs blessés;Grand Est;Le Clerjus (88);5.0
+Accident de personne;2023-06-23;Accident d'une personne heurtée par un TGV;Provence-Alpes-Côte d'Azur;La-Seyne-sur-Mer (83);5.0
+Voyageurs;2023-06-30;Dépassement de Vitesse Limite supérieur à 40 (93 km/h) par un TGV suite à non respect d'ordre (dans un contexte de gestion de plusieurs ordres et de signaux de traction électrique);Occitanie;Lamagistère (82);4.0
+Collision passage à niveau;2023-07-05;Collision d'un TER sur un passage à niveau avec un camion;Pays de la Loire;La Guierche (72);5.0
+Réseau;2023-07-12;Raté de fermeture du PN 103 lors du franchissement du train n°894052;Bourgogne-Franche-Comté;Montbéliard (25);4.0
+FRET;2023-07-13;Après séparation d’un coupon de 22 wagons, dérive sur 185 m de 15 wagons laissés sur une voie de service, franchissement d’un Carré Violet fermé (Cv 16), coupe d’une voie de circulation (VP) puis arrêt au droit d’un autre Cv fermé.;Occitanie;St-Jory (31);4.0
+Réseau;2023-07-14;Rupture d'un rail au passage d'un train de voyageurs de l'EF SNCF-Voyageurs.;Auvergne-Rhône-Alpes;Plombières-St Marcel (73);4.0
+Réseau;2023-07-14;déraillement d'une pelle rail route sur voie principale;Bourgogne-Franche-Comté;Besancon;4.0
+Réseau;2023-07-18;Délivrance d’un bulletin de franchissement sans vérification à un train travaux de l’EF SNCF RESEAU sur voie principale par l’Agent circulation du poste;Île-de-France;Brétigny (91);4.0
+Electrisation tiers;2023-07-21;"Electrisation à cause d’une canne à pêche de deux personnes sur un passage a niveau piéton ; 1 blessé grave, 1 blessé léger.";B;Brest Bassins (29);5.0
+Accident de personne;2023-07-23;Heurt mortel d'une personne par le train n°113600 de l’EF SNCF voyageurs;IdF;Lagny-Thorigny (dépt. 77);5.0
+Accident de personne;2023-07-24;Heurt d’une personne par le train n°830315 de l’EF SNCF Voyageurs à Steinbourg.;Grand Est;Steinbourg (dépt. 67);5.0
+Voyageurs;2023-07-31;Le conducteur d'un TER respecte un arrêt prescrit à un passage à niveau. Le conducteur reprend en marche normale et franchit le signal de cantonnement suivant à la vitesse de 120 km/h au lieu des 30km/h prévus. Dépassement de vitesse limite sur 1,67 kilomètres.;Nouvelle-Aquitaine;Saubusse-les-Bains-Rivière (40);4.0
+Collision hors passage à niveau;2023-08-03;Heurt d'un arbre par train 17815;Bourgogne-Franche-Comté;SAINT-AMBREUIL (71);4.0
+Collision passage à niveau;2023-08-08;Heurt d'une voiture par un train de voyageurs lors du franchissement d'un passage à niveau;Hauts-de-France;Lesquin (59);5.0
+Réseau;2023-08-08;Mise en service d'un Tableau Indicateurs de la Vitesse à Distance 100km/h au lieu de 40;Grand Est;Sachy (08);4.0
+Réseau;2023-08-09;franchissement d'un guidon fermé sans autorisation;Occitanie;Mende (48);4.0
+Réseau;2023-08-10;Dégagement intempestif du domaine protégé par un train de travaux du gestionnaire de l'infrastructure;Hauts-de-France;Oignies (62);4.0
+Accident de personne;2023-08-11;découverte d'un corps en gare, la personne aurait été heurté par une circulation;Île-de-France;Paris Saint lazare;5.0
+Voyageurs;2023-08-18;Le moteur d'un train de voyageurs (matériel X73500) a pris feu. Appel des pompiers par ASCT du train arrêté en gare de Cransac;Occitanie;Cransac (12);4.0
+Réseau;2023-08-24;Franchissement d'un Passage à Niveau barrières ouvertes et feux éteints par un Lorry Automoteur (Pelle Rail route) sur voie fermée.;Centre-Val de Loire;Entre Brou et Courtalain (28);4.0
+Externe;2023-08-27;Eboulement rocheux important;Auvergne-Rhône-Alpes;Entre Modane et St Michel-Valloire (Dépt : 73);4.0
+Réseau;2023-09-03;Franchissement non autorisé de trois signaux d'arrêt.;Auvergne-Rhône-Alpes;Entre Tassin et Ecully (69);4.0
+Réseau;2023-09-08;Défaut de géométrie imposant l’arrêt des circulations détecté lors d’un enregistrement officiel des voies effectué à l’aide d’un engin de mesure.;Normandie;Sotteville (76);4.0
+Accident de personne;2023-09-11;présence d'un corps sur la voie au droit d'un signal en gare signalé par un condcuteur;Hauts-de-France;Bruille les marchiennes (59);5.0
+Accident de personne;2023-09-12;heurt d'une adolescente en plaine voie par un train de voyageurs;Nouvelle-Aquitaine;Merpins (16);5.0
+Accident de personne;2023-09-14;découverte d'un corps dans la voie (accident de personne);Île-de-France;entre aulnay et blanc mesnil (93);5.0
+Réseau;2023-09-20;Autorisation de franchissement sans vérification d'un signal intermédiaire sur voie interceptée occasionnant un talonnage d'aiguille;Île-de-France;Paris Montparnasse;4.0
+Collision infrastructures;2023-09-21;Désordre d'ouvrage d'art suite au Heurt d'un pont rail par un camion, instabilité du tablier constatée au passage d'une circulation.;Nouvelle-Aquitaine;Monsempron Libos (47);4.0
+Réseau;2023-09-25;"Franchissement intempestif d'un Carré violet lors d'une manoeuvre ""guidée"" de refoulement d'un Train de Travaux de SNCF-Réseau sur Voie Principale avec engagement du Point protégé.";Bourgogne-Franche-Comté;Nuits-Sous-Ravières (89);4.0
+Gares et connexion;2023-09-26;Talonnage d’une aiguille par le LAM lors de travaux de nuit;Île-de-France;La Ferté-sous-Jouarre (77),;4.0
+Accident de personne;2023-10-06;Accident Individuel de Personne : heurt par un train Transilien;Île-de-France;Entre Val d'Argenteuil & Argenteuil (95);5.0
+Voyageurs;2023-10-09;Electrisation d'un personnel de sous-traitance chargé de la maintenance caténaire au sein du Technicentre;Hauts-de-France;Technicentre Hellemmes (59);5.0
+Réseau;2023-10-10;Défaut de géométrie sur Voie Principale avec valeur d’arrêt lors d’une tournée d’enregistrement officielle;Île-de-France;Pantin (93);4.0
+Accident de personne;2023-10-13;Heurt mortel d'une personne par une circulation ferroviaire.;Hauts-de-France;Longueau (80);5.0
+Collision passage à niveau;2023-10-16;Collision d'un train de Voyageurs avec un camion sur un Passage à Niveau;Pays de la Loire;Arnage (72);5.0
+FRET;2023-10-20;Lors de la préparation technique du convoi sur le site de Montargis, l’oubli d’une cale a fait dérailler le train. Quelques mètres plus loin, le train s’est spontanément enraillé. Cet incident n’a pas été détecté par le chef de la manœuvre. Le convoi est donc parti en ligne et le wagon endommagé lors du 1er déraillement a de nouveau déraillé sur une zone en courbe avec devers.;IdF;Bagneaux sur Loing (77);5.0
+Réseau;2023-11-07;Fermeture par attaque de la zone courte d'un Passage à Niveau.  Erreur du mainteneur lors de la relève du dérangement.;Nouvelle-Aquitaine;Baigts de Béarn (dépt. 64);4.0
+Voyageurs;2023-11-14;dégagement de fumée avec flammes sur un bogie  lors de la circulation d'un train de voyageurs;Grand Est;Strasbourg (68);4.0
+Réseau;2023-11-18;Absence de mesure supplémentaires pour arrêter et retenir un train de l'EF SNCF-Voyageurs à la suite d'un raté d'ouverture d'un PN;Auvergne-Rhône-Alpes;Montmélian (38);4.0
+Réseau;2023-11-20;talonnage d'une aiiguille par un train de travaux sur domaine fermé;Grand Est;longwy (54);4.0
+Accident de personne;2023-11-22;accident mortel suite heurt d'un usager d'un passage à niveau;Pays de la Loire;entre bouaté et rezé (44);5.0
+Accident de personne;2023-11-25;heurt d'une personne hors zone de quai par un train vide de voyageurs;Île-de-France;Chenay Gagny (77);5.0
+Accident de personne;2023-12-02;heurt mortel d'une personne  par un train vide de voyageurs sur un Passage à Niveau;Auvergne-Rhône-Alpes;Saint Sauveur (38);5.0
+Réseau;2023-12-05;Méconnaissance de lutilisation des installations de sécurité du PN 48 par lAC de Bruyères.;Grand Est;Bruyères (88);4.0
+Cause Externe;2023-12-14;Interruption de la circulation à la suite d'un glissement de terrain (coulée de boue) avec dégâts importants aux ouvrages en terre (talus et remblai).;Auvergne-Rhône-Alpes;Entre Annemasse et Reignier (74);4.0
+Accident de personne;2023-12-18;une personne, munie d’écouteurs, a été blessée après avoir été heurtée par un train Transilien sur un passage à niveau à proximité de la gare;Île-de-France;Garges  (92);5.0
+Accident de personne;2024-01-05;heurt de deux personnes: l'une décédée dont le corps a été retrouvé à Cerbère, l'autre grièvement blesséé retrouvée dans le tunnel de peyrefitte;Occitanie;Cerbère (66);5.0
+Réseau;2024-01-09;Présentation d'un signal à l'avertissement clignotant au lieu de l'avertissement sur deux signaux en amont d'un signal éteint, découvert lors d'essais;Île-de-France;Vigneux sur seine (91);4.0
+Accident de personne;2024-01-10;Découverte d'un corps près de la voie par le conducteur d'un train de fret;Nouvelle-Aquitaine;Entre bassens et sabarèges (33);5.0
+Réseau;2024-01-14;Défaut de mesure de protection et expédition de 13 trains sans ordre de circuler avec restriction au niveau d'un Passage à Niveau en dérangement.;Normandie;Vernon (27);4.0
+Cause Externe;2024-01-19;Déraillement  suite au heurt d'un morceau de rocher présent sur la voie;Grand Est;Jarménil (88);5.0
+Collision passage à niveau;2024-01-24;heurt d'une remorque d'un véhicule poids lourd par un train;Normandie;Aumale (76);4.0
+Accident de personne;2024-01-25;découverte d'un corps dans l'entrevoie, heurté par une circulation non identifiée;Île-de-France;Entre maison alfort et vert de maison (94);5.0
+Accident de personne;2024-01-28;heurt d'une personne par un train de SNCF Voyageurs;Occitanie;Entre pinsaguel et pins justaret (34);5.0
+Réseau;2024-02-05;Découverte, sur la VP n°41 Circulation d'un défaut d'écartement EMax classé en LAI;Île-de-France;Bercy poste 3 (75);4.0
+Accident de personne;2023-01-03;Accident de personne sur une traversée pour le public en gare;Bourgogne-Franche-Comté;Meursault (21);5.0
+Accident de personne;2024-02-10;personne grièvement blessée après le heurt par un train de Voyageurs alors qu'elle traversait les voies en dehors de tout passage aménagé;Occitanie;Toulouse Matabiau (31);5.0
+Heurt installation par tiers;2023-01-10;Incident caténaire à la suite de la collision d’une pelle mécanique contre la partie neutre d’un transversal de portique souple.;Grand Est;Revigny (55);4.0
+Voyageurs;2024-02-11;trappe latérale ouverte en ligne avec engagement du gabarit sur un TER;Pays de la Loire;Entre Sablé et Angers (49);4.0
+Réseau;2023-01-13;Défaut de géométrie sur VP détecté lors d’un enregistrement officiel réalisé à l’aide d’un ESV et imposant l’arrêt des circulations.;Grand Est;Guerstling (Dépt. 57);4.0
+Réseau;2024-02-15;Franchissement par 2 trains de TVP en dérangement sans remise d’ordres de circuler avec restrictions;Hauts-de-France;Bertry (59);4.0
+Collision hors passage à niveau;2023-01-29;nombreux dgats à la caténaire et au pantographe d'un train de voyageurs;;Entre salbris et la motte beuvron (41);5.0
+Accident de personne;2024-02-19;Heurt d'une personne par le train n°864550 de SNCF Voyageurs au PN 67 -Personne décédée;NA;Angoulême (16);5.0
+Collision passage à niveau;2023-02-02;Collision à un passage à niveau;Auvergne-Rhône-Alpes;Diou (36);5.0
+Voyageurs;2024-02-20;Franchissement intempestif signal d’arrêt (Cv ) fermé par un conducteur TN;Île-de-France;Gare de Dourdan (91);4.0
+Réseau;2023-02-03;Lors du refoulement d’une rame voyageur vers les Voies  de service, l’Agent Circulation a réalisé une manœuvre en direction d’un élément caténaire consigné. Il a avisé le chef de la manœuvre, mais l’entente préalable n’a pas permis de déterminer et de prendre des mesures vis-à-vis du point à ne pas dépasser. Conséquence: engagement de la voie provoquant une disjonction (consignation caténaire en cours).;Bretagne;Lorient (56);4.0
+Voyageurs;2024-03-05;Incendie matériel roulant;Île-de-France;Plaisir Grignon (78);4.0
+Collision passage à niveau;2023-02-08;Un train de Fret  circule à la vitesse d’environ 96 km/h en direction de Dunkerque. Alors que le convoi se trouve à une cinquantaine de mètres en approche d'un Passage à Niveau, le conducteur voit un véhicule routier s’engager sur le platelage de l’installation par le biais d’une manœuvre en chicane. Il déclenche aussitôt l’arrêt d’urgence de son train en actionnant le Bouton Poussoir d’Urgence. La collision ne peut être évitée. Sous l’effet du choc, le véhicule routier est projeté à une dizaine de mètres du point d’impact, sur le côté de la voie. Les deux occupants du véhinule sont décédés.;Hauts-de-France;Gravelines (59);5.0
+Réseau;2024-03-13;Franchissement sans arrêt d'un Signal d'Arrêt à Main par une pelle rail route lors de travaux;Occitanie;entre Salses et Rivesaltes (66);4.0
+Accident de personne;2023-02-12;Accident mortel d'une personne heurtée par un train de Voyageurs;Auvergne-Rhône-Alpes;Entre vichy et riom (03);5.0
+Réseau;2024-03-23;Expédition d'un train de l'EF OSLO Sans Ordre Prévu à la suite d'un dérangement d'aiguille;Nouvelle-Aquitaine;Brétigny (91);4.0
+Collision passage à niveau;2023-02-13;Heurt d'un véhicule sur un  Passage à Niveau par un train du gestionnaire de l'infrastructure;Hauts-de-France;Isbergues (62);5.0
+Voyageurs;2024-04-19;Collision d'un TER contre un heurtoir  sur Voie Principale;Normandie;Dieppe (76);4.0
+Réseau;2023-02-17;Détection d'une partie de voie non couverte par une mesure de fermeture de voie prescrite par la consigne de protection S9C;Auvergne-Rhône-Alpes;Lyon Part Dieu;4.0
+Réseau;2024-05-02;Collision  par un train de l'EF SNCF Voyageurs, d'un lorry à main chargé, dérive d'environ 600m.;Île-de-France;St Cloud (92);4.0
+Réseau;2023-02-20;Autorisation de franchissement d'un sémaphore fermé sans vérification et traitement du dérangement d'un signal de block;Nouvelle-Aquitaine;Ygos (40);4.0
+Accident de personne;2024-05-06;heurt mortel par un train de l'EF SNCF Voyageurs sur un Passage à Niveau (traversée piéton avec portillon);Nouvelle-Aquitaine;Gujan Mestras (33);5.0
+Réseau;2023-02-21;Absence de présentation de la signalisation routière d'un PN SAL au passage d'un train;Auvergne-Rhône-Alpes;Entre Epierre et St-Avre;4.0
+Voyageurs;2024-05-07;franchissment intempestif d'un signal fermé avec engagement du point protégé sur voie banalisée par un TER;Pays de la Loire;La Babinière (44);4.0
+Collision hors passage à niveau;2023-02-26;Heurt d'un arbre par un train de voyageurs;Bourgogne-Franche-Comté;neuilly les dijon (21);4.0
+Réseau;2024-05-18;Erreur de classement d'un défaut de hauteur du rail dans un tunnel, amenant à l'absence de remise d'ordre de limitation de vitesse.;Auvergne-Rhône-Alpes;St  Etienne Bellevue (42);4.0
+Réseau;2023-02-26;Expédition d'un train de Voyageurs sans ordre prévu, suite à présomption de danger (bâche dans la caténaire);Bretagne;Entre lamballe et saint brieuc (22);4.0
+Réseau;2024-05-21;Suite alarme raté d'ouverture d'un Passage à Niveau, défaut de Mesures de Protections (erreur de localisation  par l'agent circulation) et Expédition Sans Ordre Prévu;Occitanie;Toulouse  (31);4.0
+Réseau;2023-03-01;Défaut de géométrie détecté lors d'un enregistrement officiel (voiture MAUZIN) et imposant l'arrêt des circulations.;Hauts-de-France;Entre Armentières et Lestrem (59);4.0
+Cause Externe;2024-05-22;affaissement des voies et glissement de terrain;Grand Est;Diemeringen (67);5.0
+Réseau;2023-03-08;découverte d'un défaut de géométrie imposant l'arrêt des circulations lors d'un enregistrement réalisé au cours de l'acheminement d'un engin de surveillance des voies;Grand Est;Chalons en champagne (51);4.0
+Réseau;2024-06-04;autorisation de franchissement de signal fermé délivré à un train de Voyageurs sans vérification complète des conditions nécessaires;Pays de la Loire;Torfou tiffauges (85);4.0
+Voyageurs;2023-03-14;Défaut de mesure de protection avec circulation d'un train sur la zone protégée;Île-de-France;Technicentre Est Européen;4.0
+Réseau;2024-06-08;dépassement de vitesse limite par un train de Voyageurs en mission de reconnaissace pour le compte de réseau;Hauts-de-France;Grenay (62);4.0
+Accident de personne;2023-03-17;Accident Individuel de Personne (prestataire de réseau) dans le tunnel de Montretout ;Île-de-France;Gare de Saint-Cloud (92);5.0
+Accident de personne;2024-07-08;Heurt mortel sur Traversée de Voie Principale par un train TER;Provence-Alpes-Côte d'Azur;Sollies Pont (83);5.0
+Réseau;2023-03-22;Défaut de géométrie imposant l'arrêt des circulations détecté lors de l'enregistrement des voies effectué à l'aide d'un engin de mesure;Hauts-de-France;Laon (02);4.0
+Réseau;2024-07-16;Défaut de Mesures de Protection suite à ommission de l'avis de raté d'ouverture d'un passage à Niveau,  Expédition Sans Ordre Prévu et Dépassement de Vitesse Limite  au franchissement du PN;Nouvelle-Aquitaine;La vache  (33);4.0
+Incident Caténaire;2023-03-24;Rupture de caténaire lors de la circulation d'un train;Auvergne-Rhône-Alpes;Entre St-Priest et Vénissieux (69);4.0
+Réseau;2024-07-20;Rupture de rail sur voie d'évitement en gare de Plouharnel-Carnac découvert par Agent Circulation et imposant l'arrêt des circulation (lacune de 150mm);Bretagne;Plouharnel-Carnac (56);4.0
+Accident de personne;2023-04-14;Accident mortel d'une personne heurtée par un train TER;Provence-Alpes-Côte d'Azur;Sorgues-Châteauneuf-du-papes (84);5.0
+Réseau;2024-07-23;Défaut de diagnostic sur dérangement de TVP, avec choix erroné de l’AC de ne pas délivrer de formulaire DIPU;Occitanie;Marseillan-Plage (34);4.0
+Accident de personne;2023-04-17;Accident mortel de Personne suite heurt par un TER à un Passage à Niveau;Pays de la Loire;Saint-Mathurin (49);5.0
+Voyageurs;2024-07-24;Déraillement suite à une coulée de boue + collision contre la culée d'un pont. 7 blessés, dont le conducteur et l'Agent d’Accompagnement. Pont, supports caténaires et voie (150m) endommagés. Dégâts importants sur le matériel.;Occitanie;EUS (66);6.0
+Accident de personne;2023-04-25;accident de personne;Grand Est;Bar sur AUBE (10);5.0
+Réseau;2024-07-28;Expédition du train n° 892602 (EF SNCF Voyageurs) sans ordre de marche prudente à la suite du signalement d’une divagation de bestiaux;Bourgogne-Franche-Comté;"Entre Laroches-
+Migennes et Sens (89)";4.0
+Accident de personne;2023-04-29;accident de personne;Grand Est;REDING (57);5.0
+Réseau;2024-07-31;Délivrance à tort d’une autorisation de franchissement du Carré 310.3 de protection C par l’AC;Grand Est;Pagny-sur-Meuse (55);4.0
+Réseau;2023-05-02;fermeture tardive d'un passage à niveau lors du passage d'un train de travaux sur voie interceptée (erreur de procédure, non remise d'une dispense de marche à vue à la bourreuse qui a franchi le PN à contresens sans attendre la fermeture des barrières par action sur la zone courte.);Hauts-de-France;Entre damartin et le plessis belleville (60);4.0
+Accident de personne;2024-08-18;Heurt mortel d’une personne par le train 852827 (EF SNCF Voyageurs) au PN 110;Bretagne;Pleine Fougères (35);5.0
+Réseau;2023-05-10;défaillance de voie découvert lors du passage d'un engin de mesure sur une voie unique;Nouvelle-Aquitaine;Entre busseau et aubusson (23);4.0
+Accident de personne;2024-09-08;heurt mortel par un train de voyageurs suite traversée hors passage aménagé dans un point d'arrêt;Bretagne;Fougeray Langon (35);5.0
+Réseau;2023-05-11;absence de mesures de restriction de vitesse suite à dépassement du délai de suppression d'un défaut rail;Bretagne;Entre st Jacques de la lande et rennes (35);4.0
+Accident de personne;2024-09-12;Heurt mortel sur Traversée de Voie Principale par un train de Voyageurs;Occitanie;Marseillan-Plage (34);5.0
+Réseau;2023-05-22;Raté de fermeture du signal C8.9v1 lors d'une absence de tension sur le secteur aval, en l'absence de circulation. Dérangement grave;Île-de-France;Corbeil Essonnes (91);4.0
+Réseau;2024-09-20;Délivrance d'une autorisation de franchissement d'un signal fermé non commandé à l'ouverture sur Voie Principale;Bourgogne-Franche-Comté;Tonnerre (89);4.0
+Collision passage à niveau;2023-05-26;Collision d'un TTX SNCF-Réseau en acheminement avec un véhicule routier tombé d'un pont-route et déraillement de deux wagons;Provence-Alpes-Côte d'Azur;Bouc-Cabriès (13);5.0
+Réseau;2024-09-20;Expédition de 7 trains (Voyageurs) sans ordre prévu par l'absence de l'agent de surveillance de la Traversée de Voie Piétonne;Occitanie;Lacourtensour (31);4.0
+Réseau;2023-05-31;Franchissement intempestif d'un carré fermé par un train de travaux de SNCF Réseau;Nouvelle-Aquitaine;St Benoit (86);4.0
+Réseau;2024-10-08;Dysfonctionnement inopiné d' origine électrique sur Voie Principale (dérangement Contraire à la Sécurité des Circulations);Auvergne-Rhône-Alpes;Chambéry (73);4.0
+Accident de personne;2023-06-03;heurt mortel d’une personne sur TVP en gare. La victime est une personne agée, arrivée 10mn en avance pour prendre son train et qui a traversé les voies pour rejoindre le quai en face. TVP en fonctionnement.;Occitanie;Lamagistère (82);5.0
+Cause Externe;2024-10-12;Collision d'un train de  SNCF Voyageurs contre un arbre provoquant une fuite de gasoil et un dégagement de fumée nécessitant évacuation des voyageurs;Occitanie;Entre Lexos (82) et Cordes (81);4.0
+Réseau;2023-06-03;"Expédition d'une circulation électrique sous caténaire primaire consignée. Alors que les protections électriques sont toujours en cours (Dispositif Spécial d'Attention sur le 
+capuchon du bouton d’itinéraire), l'itinéraire est formé et établi par l’Agent Circulation";Provence-Alpes-Côte d'Azur;Tarascon (13);5.0
+Accident de personne;2024-10-15;Heurt d'une personne par une circulation ferroviaire;Hauts-de-France;Dourges (62);5.0
+Collision hors passage à niveau;2023-06-06;Un train Intercités origine a heurté un troupeau de vaches présent sur sa voie à la vitesse de 156Km/h. Le train n'a pas déraillé mais plusieurs vaches sont encastrées sous le matériel. Le conducteur ainsi qu’un voyageur sont légèrement blessés. Les 309 voyageurs du train sont transbordés.;Bourgogne-Franche-Comté;Tonnerre (89);5.0
+Accident de personne;2024-10-18;Heurt d'une personne par un train de Naviland au niveau d'un Passage à Niveau;Occitanie;Lunel (34);5.0
+Réseau;2023-06-13;Absence de ballast sous les traverses d'une voie suite à ravinage provoqué par de fortes pluies.Conséquences: Interdiction circulation puis Limitation Temporaire de Vitesse.;Nouvelle-Aquitaine;Entre Orthez et Puyoô ( 64 );4.0
+Réseau;2024-10-20;Autorisation de mise en mouvement donnée sans formation de l'itinéraire. Mise en mouvement en aval d'un signal.;Île-de-France;Pantin (93);4.0
+Réseau;2023-06-16;Défaillance de voie détectée suite au passage d'un Engin de Mesures des Voies sur voie unique avec valeur d'arrêt;Centre-Val de Loire;Entre les aubrais et pithiviers (45);4.0
+Electrocution;2024-10-25;accident de personne en gare;Auvergne-Rhône-Alpes;Valence TGV (26);5.0
+Voyageurs;2023-06-16;Franchissement d'un signal Carré fermé puis talonnage de 3 aiguilles et déraillement d'une rame TER lors d'une manoeuvre.;Nouvelle-Aquitaine;Bordeaux (33);5.0
+Accident de personne;2024-10-29;Heurt d'une personne par un train de l'EF Voyageurs;Île-de-France;Aulnay sous bois;5.0
+Réseau;2023-06-21;Interdiction de circulation sur Voie Principale suite à détection par un Engin de Mesure des Voies avec valeur d'Arrêt;Centre-Val de Loire;Blois;4.0
+Voyageurs;2024-11-04;Boite chaude signalée sur un train de Voyageurs à l'arrivée en gare, hors détection Détecteur de Boites Chaudes. Un début d'incendie est constaté . Les voyageurs présents à bord sont descendus à quai. Le conducteur et le personnel en gare ont maitrisé le feu au moyen d'extincteurs.;Grand Est;Epinal (88);4.0
+Accident de personne;2023-06-26;signalement par le conducteur d'un TER de  la présence d'un corps dans l'entrevoie, l'individu aurait été heurté par un autre TER dans l'autre sens;Nouvelle-Aquitaine;entre Arcachon et La Teste (33);5.0
+Collision passage à niveau;2024-11-10;Heurt d'un véhicule sur un Passage à Niveau par un train de Fret;Hauts-de-France;Verquigneul (62);5.0
+Réseau;2023-07-05;Erreur de procédure pour l'exécution d'une manoeuvre à contre-voie.;Hauts-de-France;Lens  (62);4.0
+Accident de personne;2024-11-18;accident d'une personne heurtée par un train de Voyageurs;Provence-Alpes-Côte d'Azur;Vallauris (06);5.0
+Réseau;2023-07-07;découverte d'un dérangement grave affectant le fonctionnement d'un détonateur;Auvergne-Rhône-Alpes;Lyon saint clair;4.0
+Réseau;2024-11-21;Expédition d'un train  de l'EF SNCF Voyageurs Sans Ordre Prévu à la suite du dérangement d'une aiguille;Île-de-France;Château Landon (75);4.0
+Electrisation tiers;2023-07-10;électrocution d'un bucheron lors d'une opération d'élagage;;Feignies (59);5.0
+Réseau;2024-11-26;Défaut de géométrie détecté lors d'un enregistrement officiel par un engin de mesure nécessitant l'arrêt des circulations;Hauts-de-France;Armentières (59);4.0
+Voyageurs;2023-07-10;Franchissement intempestif d'un Tableau Lumineux de Correspondance ,présentant un damier rouge et blanc puis d'un signal Carré fermé;Île-de-France;Villeneuve Triage (94);4.0
+Accident de personne;2024-12-06;Heurt mortel d'une personne en pleine voie;Hauts-de-France;Glisy (80);5.0
+Réseau;2023-07-12;Présentation d'une indication moins restrictive au C3314 sur Ligne L70000;IdF;Vaires (77);4.0
+Réseau;2024-12-06;Franchissement d'un Passage à Niveau en raté d'ouverture par 5 trains de voyageurs  sur Voie Principale, sans l'ordre prescrit prévu, suite à alarme fermeture prolongée.;Île-de-France;Mennecy (91);4.0
+Collision passage à niveau;2023-07-14;Heurt d’un engin agricole au PN 250 suivi du déraillement du train de voyageurs n°873108 de l'EF SNCF Voyageurs - 1 blessé léger.;Auvergne-Rhône-Alpes;Entre Montluçon et Gannat (03);5.0
+Accident de personne;2024-12-11;Heurt mortel d'une personne sur un Passage à Niveau;Hauts-de-France;Entre Quimper et Quéménevel (29);5.0
+Réseau;2023-07-21;Défaillance de voie avec valeur d'arrêt, découverte par le train de mesure ESV  en tournée officielle;Bourgogne-Franche-Comté;Entre Gilly sur Loire et Paray Le Monial (71);4.0
+Cause Externe;2024-12-22;Collision d'un TGV avec un rocher provoquant une avarie de suspension;Bretagne;Entre Bégard et Guingamp (22);4.0
+Accident de personne;2023-07-27;accident piéton à un PN;Hauts-de-France;Villers saint paul (60);5.0
+Cause Externe;2025-01-09;Affaissement voie  imposant l'arrêt des circulations;Normandie;entre Fécamp et Bréauté (76);4.0
+Réseau;2023-08-11;Remise d'un bulletin de franchissement Carré de Block Automatique à la suite d’un franchissement intempestif sans vérification de la condition PN;IdF;Argenteuil (Dépt : 95);4.0
+Voyageurs;2025-01-12;Non respect de la vitesse limite d'un ordre OCAR;Auvergne-Rhône-Alpes;Saint martin Bellevue (74);4.0
+Collision passage à niveau;2023-08-22;Collision entre un semi-remorque et un train de voyageurs;Bourgogne-Franche-Comté;entre Pontarlier et les verrières (25);5.0
+Réseau;2025-01-21;Découverte sur Voie Principale d'un défaut de géométrie de la voie par un engin de mesures imposant l'arrêt des circulations.;Île-de-France;Paris St Lazare (75);4.0
+Accident de personne;2023-08-26;heurt d'une personne par un train de voyageurs;Hauts-de-France;entre moreuil et Montdidier (80);5.0
+Réseau;2025-01-22;Expédition d'un train de Voyageurs sans annonce préalable (CAPI) et défaut de prise en charge par le Dispositif d'Arrêt Automatique).;Normandie;Bailleau-le-Pin (28);4.0
+Electrisation tiers;2023-09-02;Electrisation d'un adolescent après accès à la toiture d'un engin moteur stationnant sur une voie de service après intrusion dans les emprises;Grand Est;Saint Louis (68);5.0
+Réseau;2025-01-31;Autorisation de mouvement donné par l'Agent Circulation sur un itinéraire non tracé avec talonnage de quatre aiguilles;Nouvelle-Aquitaine;Hourcade (33);4.0
+Accident de personne;2023-09-03;Heurt d'une personne en zone de quai par un train de voyageurs lors de son arrivée en gare;Grand Est;Colmar (68);5.0
+Collision passage à niveau;2025-01-31;Collision d'un véhicule routier par un train vide de Voyageurs au franchissement d'un Passage à Niveau;Île-de-France;Argenteuil (95);5.0
+Accident de personne;2023-09-17;heurt en pleine voie par un train de voyageurs;Pays de la Loire;Varades st florent (44);5.0
+Collision passage à niveau;2025-01-31;Collsion d'un véhcule sur un passage à niveau;Île-de-France;Deuil Montmagny;5.0
+Réseau;2023-09-21;Découverte par le mainteneur d'une non conformité relative au système d'attache des rails sur Voie Principale;Auvergne-Rhône-Alpes;Tassin (69);4.0
+Réseau;2025-02-03;Constatation de l'entrebaillement d'une aiguille alors que le contrôle confirme son positionnement correct;Hauts-de-France;Valenciennes (59);4.0
+Réseau;2023-09-26;Mouvement intempestif inverse du sens normal par un Train de Travaux à l'issue d'une demande de fermeture de voie;Hauts-de-France;Entre Corvie et Albert (80);4.0
+Réseau;2025-02-05;Autorisation de franchissement sas vérification d'un signal carré identifié comme signal intermédiaire sur un domaine fermé;Normandie;Elbeuf (76);4.0
+Voyageurs;2023-10-11;Franchissement intempestif d'un signal Carré violet fermé par un train sur Voie de Service avec  engagement de domaine fermé pour graissage.;Île-de-France;Melun (77);4.0
+HexaFret;2025-02-12;dépassement de vitesse supérieur à 40 km/h dans un tunnel limité à 50km/h;Auvergne-Rhône-Alpes;Saint Rambert d'Albon (26);4.0
+Réseau;2023-10-18;Détection d'un défaut de rail important lors d'une tournée de l'infrapole;Île-de-France;Entre Clamart et Meudon (92);4.0
+Réseau;2025-02-17;Erreur vérification par agent  de SNCF Réseau, suite Demande de Fermeture de Voie avec libération de voie. Heurt Agent entreprise extérieure évité de peu.;Occitanie;Cahors (46);4.0
+Voyageurs;2023-10-21;Après avoir heurté des branches, un train transilien n'est plus en capacité de se mettre en mouvement de lui-même, le conducteur fait une demande de secours. Il se trouve à une cinquantaine de mètres de la gare de Grand Bourg. Un cadre d’astreinte est envoyé en tant que Responsable de l’Opération avec une équipe mobile afin d’évacuer les voyageurs. Arrivés à la cabine de conduite, ne trouvant pas le conducteur, l'équipe chemine dans la rame, jusqu'à la queue de train où ils constatent que le conducteur procède seul à l’évacuation du train, sans procédure d’évacuation, sans protection sur la voie contiguë. 2 trains ont circulé dans ce laps de temps à vitesse normale.;Île-de-France;Grand Bourg  (91);4.0
+Réseau;2025-02-19;Expédition d'un train sans l'ordre prévu à la suite d'une divagation de bestiaux;Occitanie;entre Narbonne (11) et Perpignan (66);4.0
+Réseau;2023-10-22;Autorisation de franchissement d'un signal Carré, délivrée à un train de Voyageurs  sans prise de mesure liés à l'absence de l'établissement du sens sur IPCS;Centre-Val de Loire;Les Aubrais (45);4.0
+Réseau;2025-03-02;Délivrance d'un formulaire Carré Block automatique (CBa) alors que le signal présente le sémaphore et sans vérifier les conditions d'ouverture.;Auvergne-Rhône-Alpes;Volvic (63);4.0
+Accident de personne;2023-10-24;Heurt d'une personne par un  train sur un Passage à Niveau;Grand Est;Wisches (67);5.0
+Accident de personne;2025-03-06;heurt accidentel d'une personne sur un Passage à Niveau par un train d'Hexafret;Hauts-de-France;Calais (62);5.0
+Réseau;2023-11-02;Absence d'un signal d'arrêt détecté à l'issue de travaux, non remontage par entreprise prestataire;Bourgogne-Franche-Comté;Chagny (71);4.0
+Réseau;2025-03-07;Autorisation de franchissement d'un signal Carré fermé délivrée à deux trains de Voyageurs sans vérification complète des conditions nécessaires;Bretagne;Montreuil sur Ille (35);4.0
+Réseau;2023-11-03;Dégagment intempestif d'un train de travaux du domaine fermé;Bourgogne-Franche-Comté;Dijon (21);4.0
+HexaFret;2025-03-13;dérive d'un wagon vide laissé sur place après une coupe. Le wagon a percuté une rame en stationnement ce qui a provoqué le déraillement des quatre essieux du wagon.;Nouvelle-Aquitaine;La rochelle la pallice (17);4.0
+Réseau;2023-11-06;Libération intempestive de plusieurs zones détectée par le système de surveillance;Hauts-de-France;Entre Busigny et Aulnoye (59);4.0
+Réseau;2025-03-25;Déraillement de deux wagons d'essence de Matière Dangereuse de l'EF Hexafret sur Voie de Service avec déclenchement du Plan d'Urgence MD type 2;Auvergne-Rhône-Alpes;Clermont-les-Gravanches (63);4.0
+Réseau;2023-11-09;Non remise d'ordre de marche prudente à plusieurs trains de voyageurs suite à déclenchement filets;Occitanie;Entre Lexos et Villefranche (12);4.0
+HexaFret;2025-03-28;déraillement, hors responsabilité (cause chargeur);Hauts-de-France;Dunkerque (59);4.0
+Voyageurs;2023-11-15;évacuation mal contrôlée du train suite au heurt mortel d'une personne sur Voie Principale, en zone de quai (suicide);Île-de-France;Alfortville (94);4.0
+Réseau;2023-11-16;défaut de géométrie voie avec valeur d'arrêt détecté lors d'une tournée  d'enregistrement supplémentaire;Hauts-de-France;Aulnoye (59);4.0
+Réseau;2023-11-16;défaut de géométrie voie avec valeur d'arrêt détecté lors d'une tournée  d'enregistrement complémentaire;Normandie;Sotteville (76);4.0
+Voyageurs;2023-11-17;enfoncement de heurtoir;Île-de-France;Le Landy (93);5.0
+Réseau / Voyageurs;2023-11-19;Mouvement intempestif inverse du sens normal sur voie principale d'un train de voyageurs avec enagement du canton amont;Île-de-France;juvisy (91);4.0
+Accident de personne;2023-11-24;heurt d'une personne par un train de voyageurs au franchissement d'un passage à niveau;Hauts-de-France;Salomé (59);5.0
+Réseau;2023-12-06;Défaillance de voie (écartement) découverte suite au passage d'un engin de mesure  avec valeur d'arrêt;Centre-Val de Loire;Orléans (45);4.0
+Réseau;2023-12-09;Expédition d'un train de SNCF voyageurs  vers un Passage à Niveau dérangement, sans transmission d'un formulaire RATO (Raté d'Ouverture) à son conducteur;Hauts-de-France;Morbecque (Dépt. 59);4.0
+Réseau;2023-12-28;Erreur de procédure en vue du franchissements de trois carrés fermés dans un contexte de dérangement de zone;Grand Est;Haguenau (67);4.0
+Accident de personne;2024-01-08;chute d'une voyageuse ayant pénétré dans un local interdit au public;Nouvelle-Aquitaine;Lamothe (33);5.0
+Réseau;2024-01-10;franchissement barrières ouvertes d'un Passage à Niveau indûment ouvert, par train de Voyageurs;Centre-Val de Loire;Entre Nouan le Fuzelier et Lamotte-Beuvron (41);4.0
+Réseau;2024-01-11;Franchissement d'une aiguille en  dérangement sur Voie Principale  par un train de voyageurs de l'EF SNCF Voyageurs sans l'ordre prévu par les textes.;Île-de-France;Port de Limay (78);4.0
+Réseau;2024-01-14;Dérive d'un Engin de Surveillance de la Voie;Hauts-de-France;entre La Madeleine et Saint André lez Lille (59);4.0
+Accident de personne;2024-01-15;Heurt mortel d'une personne sur une TVP par un train de voyageurs.;Nouvelle-Aquitaine;Lamothe Landeron (33);5.0
+Réseau;2024-01-17;déraillement d'une manœuvre guidée par refoulement de Réseau à la suite d'une collision contre un heurtoir puis de deux véhicules en stationnement;Bourgogne-Franche-Comté;St Florentin (89);5.0
+Accident de personne;2024-01-19;Heurt mortel d'une personne sur une TVP par un train de voyageurs.;Occitanie;Albias (82);5.0
+Accident de personne;2024-01-20;Heurt mortel d'une personne sur une TVP par un train de voyageurs.;Bretagne;La gousnière (35);5.0
+Accident de personne;2024-01-23;présence d'un corps dans la voie signalée par un conducteur;Hauts-de-France;Le Poirier (59);5.0
+Accident de personne;2024-01-29;accident d'une personne heurtée par un train de SNCF Voyageurs;Provence-Alpes-Côte d'Azur;La seyne sur mer (83);5.0
+Accident de personne;2024-02-02;heurt d'une personne par un train de l'EF Voyageurs sur un Passage à Niveau (victime gravement blessée);Bourgogne-Franche-Comté;Lure (70);5.0
+Réseau;2024-02-06;Découverte sur VP en zone d'aiguille d'un défaut de géométrie  imposant l'arrêt des circulations;Île-de-France;Paris Gare de Lyon (75);4.0
+Accident de personne;2024-02-11;heurt d'une personne par un train de Voyageurs;Provence-Alpes-Côte d'Azur;Miramas (13);5.0
+Fret;2024-02-11;Déraillement d’un train de Fret sur voie principale suite au rattrapage et à la collision avec un autre train de Fret.Aucun blessé n’est à déplorer. Les 6 wagons de queue du train  percuté  sont déraillés  nécessitant l’intervention de la grue Kirow pour les opérations de relevage. Des dégâts importants aux installations de traction électrique (3 poteaux caténaires à terre) et voie sont également à signaler. Enfin plusieurs dizaines de mètres  nécessitent une opération de RVB;Grand Est;Metz;5.0
+Accident de personne;2024-02-17;Heurt d’une personne au niveau de la TVP de la gare – Personne décédée;Grand Est;en aval de Gare de Nouvion-sur-Meuse (08);5.0
+Réseau;2024-02-18;Autorisation de franchissement d'un Carré fermé sans vérification exhaustive délivrée à un  train  de l'EF SNCF Voyageurs par un Agent Circulation.;Occitanie;St Martin du Touch (31);4.0
+Réseau;2024-02-18;Autorisation de franchissement d'un Carré fermé sans vérification exhaustive délivrée à un  train  de l'EF SNCF Voyageurs par un Agent Circulation.;Occitanie;Toulouse (31);4.0
+Cause Externe;2024-02-22;Interruption totale de circulation suite à la chute d'un arbre sur les voies;Bourgogne-Franche-Comté;Entre dole et besancon (25);4.0
+Réseau;2024-02-22;Franchissement d'un Passage à Niveau en position d'ouverture par un Train Travaux circulant sur voie unique fermée.;Pays de la Loire;Entre Sablé et Chateau-Gontier(49);4.0
+Réseau;2024-02-27;Suite à un incident lors de la réalisation de fouilles à proximité d'une voie principale,  les mesures de limitation de vitesse n'ont pas été prises;Nouvelle-Aquitaine;Entre Landy et Chamarande (91);4.0
+Réseau;2024-03-08;Absence de la mention d'un Passage à Niveau dans l'annexe 2 (précisant les conditions d'établissement des itinéraires) de la consigne rose du poste d'aiguillage;Grand Est;L'ardoise (30);4.0
+Electrocution;2024-04-07;Electrisation d'une personne tombée depuis un pont;Pays de la Loire;Laval (53);5.0
+Réseau;2024-04-13;Absence de demande de voie avant d'engager 3 trains dans un intervalle de voie banalisée en dérangement.;Nouvelle-Aquitaine;St Jean d'Angély (17);4.0
+Voyageurs;2024-04-24;Non respect de vitesse sur un ordre OCAR (fontis) 95 km/h au lieu 40km/h;Auvergne-Rhône-Alpes;Imphy;4.0
+Réseau;2024-04-28;Autorisation de franchissement délivrée à un train  de l'EF SNCF Voyageurs pour franchissement d'un Sémaphore alors qu'un Guidon d'Arrêt est fermé et un Passage à Niveau est  ouvert;Nouvelle-Aquitaine;Thiviers (24);4.0
+Voyageurs;2024-04-29;dépassement de vitesse limite (plus de 60km/h) par un train intercités;Provence-Alpes-Côte d'Azur;Montmaur (05);4.0
+Réseau;2024-05-01;Non respect de procédure suite à absence de signalisation arrière d'un train de de Fret SNCF;Nouvelle-Aquitaine;Lamothe (33);4.0
+Réseau;2024-05-02;Defaillance de voie découverte suite passage d'un engin d'enregistrement sur voie principale;Centre-Val de Loire;Entre patay et bricy boulay (45);4.0
+Réseau;2024-05-08;coulée de boue;Auvergne-Rhône-Alpes;Entre voiron et rives (38);4.0
+Réseau;2024-05-12;Expédition sans ordre prévu d'un train de l'EF Voyageurs prévu à la suite d'un décontrôle d'aiguille;Île-de-France;Orly (94);4.0
+Réseau;2024-05-26;Un train TER  heurte un Long Rail Soudé (LRS) entreposé précédemment, le long de la voie unique, en prévision de travaux de remplacement de rails (RR) à venir. Le rail engageait le gabarit (risque de déraillement).;Auvergne-Rhône-Alpes;Entre Aurillac et Vic-Sur-Cère (15),;4.0
+Voyageurs;2024-05-27;Mise en mouvement sans autorisation avec franchissement de la pancarte « ARRET »;Grand Est;Metzeral (68);4.0
+Réseau;2024-06-03;Défaut de géométrie imposant l'arrêt de circulation détecté par engin de mesures en tournée officielle.;Hauts-de-France;Tergnier (02);4.0
+Cause Externe;2024-06-09;désordre d'ouvrage en terre: coulée de boue suite à de fortes intempéries;Auvergne-Rhône-Alpes;Voiron (38);4.0
+Accident de personne;2024-06-13;heurt d'une personne par une circulation ferroviaire par un train de l'EF Voyageurs;Hauts-de-France;Berlaimont (59);5.0
+Réseau;2024-06-12;Mouvement intempestif inverse du sens normal;Nouvelle-Aquitaine;Chaulnes (80);4.0
+Réseau;2024-07-01;Collision d'un train avec un engin de manutention engageant subitement le gabarit de circulation.;Hauts-de-France;Cuinchy (62);4.0
+Réseau;2024-07-04;Expédition d'un train  de  SNCF Voyageurs Sans Ordre Prévu à la suite du défaut de contrôle d'une aiguille;Île-de-France;Le Perray (78);4.0
+Voyageurs;2024-07-18;Collision d'un engin moteur avec une rame IC (14 voitures matériel vide parc ordinaire) en stationnement sur voie 7.;IdF;Gare d'Austerlitz (75);5.0
+Accident de personne;2024-08-03;Heurt mortel d’une personne sur le PN 47 par le train 848832 (EF SNCF Voyageurs);HdF;Amiens (80);5.0
+Accident de personne;2024-08-09;Heurt d’une personne par le train 876214 (EF SNCF Voyageurs) – victime prise en charge par les pompiers;Occitanie;Escalquens (31);5.0
+Collision passage à niveau;2024-08-12;Heurt d’un véhicule routier au PN 90 par le train 866621 (EF SNCF Voyageurs). Automobiliste gravement blessé.;NA;Sainte-Bazeille (47);5.0
+Accident de personne;2024-09-10;heurt mortel par un train de voyageurs en zone de quai;Bourgogne-Franche-Comté;Macon Loche (71);5.0
+Réseau;2024-09-11;Défaut de géométrie sur Voie Principale (sous écartement)   imposant l'arrêt des circulations, détecté lors d'un enregistrement officiel des voies à l'aide d'un Engin de Surveillance des Voies;Grand Est;Villers-Semeuse (08);4.0
+Voyageurs;2024-09-14;Déraillement sur un appareil de voie sur Voie Principale lors d'une manœuvre guidée;Grand Est;Rothau (67);4.0
+Voyageurs;2024-09-16;Succession d'erreurs conduite : FSA - Franchissement du signal de sortie déclaré ouvert par conducteur + perception détonation de pétard et prise en charge par le KVB . Après un arrêt d'environ 2 min, et avoir constaté le passage d'un train sur sa voie, le conducteur reprend sa marche sans autorisation de franchissement  et sans avis au SGC;Île-de-France;Magenta (75);4.0
+Accident de personne;2024-09-20;Heurt d'une personne par un train de Voyageurs en pleine voie;Nouvelle-Aquitaine;Le Boucau (64);5.0
+Réseau;2024-09-21;Circulation d'un train (TGV) de l'EF SNCF Voyageurs sur une partie de voie non reconnue de Ligne à Grande Vitesse;Bourgogne-Franche-Comté;Entre Pasilly (89) et Marolles (77);4.0
+Fret;2024-09-23;collision par prise en écharpe d’une loc de manœuvre avec un wagon de Matières Dangereuses;Provence-Alpes-Côte d'Azur;Miramas (13);4.0
+Réseau;2024-09-24;Modification d'itinéraire pour un train arrêté en aval d'un signal Carré, sans constatation de la part du conducteur de la fermeture du signal.;Île-de-France;Emerainville (77);4.0
+Réseau;2024-10-04;Barrières de Passage à niveau Gardé (PN), non baissées par le Garde PN, à l' approche d' une circulation de l' EF SNCF Voyageurs;Auvergne-Rhône-Alpes;Bourg- en- Bresse (01),;4.0
+Voyageurs;2024-10-04;Franchissement intempestif d'un signal carré;Grand Est;Strasbourg (67);4.0
+Cause Externe;2024-10-08;désordre d'ouvrage en terre sur Voie Principale et interruption de la circulation supérieure à 6h suite à des intempéries;Auvergne-Rhône-Alpes;Saint Chamond (42);4.0
+Accident de personne;2024-10-16;Accident mortel d'une personne heurtée par un train de SNCF Fret;Auvergne-Rhône-Alpes;Miribel (01);5.0
+Cause Externe;2024-10-17;Désordre d'ouvrage en terre découvert par le mainteneur sur Voie Principale avec interruption des circulations supérieures à 6h00, suite à des intempéries;Auvergne-Rhône-Alpes;Entre Givors Canal (69) et Peyraud (07);4.0
+Cause Externe;2024-10-21;Collision d'un engin de travaux (de poids supérieur à 3,5t) par un train de Voyageurs;Île-de-France;Entre Corbeil et La ferté Allais (91);5.0
+Voyageurs;2024-11-04;Dépassement de Vitesse Limite > 40 Km/h  (non-respect d'une limitation provisoire à 60), par le conducteur d'un train Intercités,;Nouvelle-Aquitaine;Entre Fontaine Ozillac et Jonzac (17);4.0
+Réseau;2024-11-04;Mouvement intempestif à contrevoie d'un train de SNCF Voyageurs.;Hauts-de-France;Saint Roch (80);4.0
+Réseau;2024-11-09;Glissement d'un remblai de 30m de long signalé par un tiers;Occitanie;Entre Tournay et Lannemezan (65);5.0
+Accident de personne;2024-11-12;Accident de personne en gare;Île-de-France;Drancy (93);5.0
+Collision passage à niveau;2024-11-12;Heurt d'un véhicule sur un Passage à Niveau par un train de l'EF Voyageurs;Nouvelle-Aquitaine;Saujon (17);5.0
+Accident de personne;2024-11-19;Personne heurtée et grièvement blessée au passage d'un train de Voyageurs;Occitanie;Entre Sables et Rivesaltes (66);5.0
+Accident de personne;2024-11-21;Heurt mortel sur une Traversée de Voie Piétonne par un rain de l'EF Voyageurs;Nouvelle-Aquitaine;La mothe saint héray (79);5.0
+Collision passage à niveau;2024-11-26;Collision d'un véhicule routier avec un train de l'EF Captrain sur un Passage à Niveau;Occitanie;Cornas (07);5.0
+Accident de personne;2024-11-27;Heurt mortel d'une personne en pleine voie;Hauts-de-France;Chézy sur Marne (02);5.0
+Accident de personne;2024-11-28;Collision d'une personne par un train de Voyageurs sur un Passage à Niveau;Bretagne;Entre la roche et Landivisiau (29);5.0
+Accident de personne;2024-11-28;Heurt mortel d'une personne en pleine voie par un train de Voyageurs;Occitanie;Entre caussade et Monpezat (82);5.0
+Collision passage à niveau;2024-11-29;Collision d'un véhicule routier avec un train de Voyageurs sur un Passage à Niveau;Auvergne-Rhône-Alpes;Régny (42);5.0
+Réseau;2024-12-03;Délivrance d'un bulletin C (Carré) au lieu d'un bulletin CBA (Carré Block Automatique) à un conducteur de train  sur un itinéraire non formé;Grand Est;Pont-Saint-Vincent (54);4.0
+Voyageurs;2024-12-06;Dégagement de fumée dans un train intercités avec intervention des pompieres et évacuation;Centre-Val de Loire;Cosne sur Loire (58);4.0
+Accident de personne;2024-12-07;Heurt mortel d'une personne en pleine voie;Île-de-France;Roissy (95);5.0
+Réseau;2024-12-20;Franchissement d'un Passage à Niveau Ouvert par un train de secours et collision avec un véhicule routier;Occitanie;Entre Tarbes et Lourdes (65);4.0
+Réseau;2024-12-28;Défaut de mesure de protection et circulation d'un train sans formulaire Raté d'ouverture;Grand Est;Boisleux (62);4.0
+Accident de personne;2025-01-01;Découverte d'un corps dans l'entrevoie d'un chantier faisceau par le conducteur d'un train de Voyageurs;Grand Est;Lumes Triage (08);5.0
+Accident de personne;2025-01-05;Heurt d'une personne en zone de quai par un train de Voyageurs;Île-de-France;Sartouville (78);5.0
+Réseau;2025-01-06;Retour en arrière d'un train avec ordre erroné;Hauts-de-France;Montdidier (80);4.0
+Accident de personne;2025-01-07;accident de personne d'un usager piéton avec un tram train;Pays de la Loire;Entre Doulon et Nantes (44);5.0
+Accident de personne;2025-01-09;Collision piéton à un Passage à Niveau par un train de Voyageurs;Hauts-de-France;Raismes (59);5.0
+Réseau;2025-01-14;Expédition de deux trains de  Voyageurs sans ordre prévu, suite à raté d'ouverture du PN;Bretagne;: Entre Lorient & Hennebont (56);4.0
+Réseau;2025-01-20;découverte d'une erreur d'études lors d'une modification d'installations sur un poste PRS;Bourgogne-Franche-Comté;Saint jean de Losne (21);4.0
+Accident de personne;2025-01-20;accident de personne, un train de voyageurs heurte une personne en fin de quai;Île-de-France;Bondy (93);5.0
+Réseau;2025-01-20;Déraillement d'un train Hexafret lors de sa réception sur une voie du chantier Outreau;Hauts-de-France;Boulogne (62);4.0
+Accident de personne;2025-01-21;Découverte d'un corps en zone de quai par le conducteur d'un train de voyageurs;Nouvelle-Aquitaine;Cenon (33);5.0
+Voyageurs;2025-01-22;un TER percute des chevreuils, le conducteur  freine sans s'arrêter et surveille son engin moteur pour détecter une éventuelle anomalie et reprend sa vitesse. Il percoit bien  une limitation de vitesse 30 mais ne ralentit pas et franchit la zone à 73 km/h;Occitanie;entre Andelat et Talizat;4.0
+HexaFret;2025-02-07;Talonnage d'une aiguille suite à une erreur de direction.;Auvergne-Rhône-Alpes;Sibelin (69);4.0
+Réseau;2025-02-18;Franchissement sans autorisation d'un signal présentant l'indication carré fermé par un train de travaux;Hauts-de-France;Laon (02);4.0
+Réseau;2025-02-18;Réalimentation électrique d'une voie par  pontage par une train de  SNCF Voyageurs expédié sur la voie concernée par erreur. Signal de protection C automatique en défaut. Enquête en cours;Nouvelle-Aquitaine;Vayres (33);4.0
+Accident de personne;2025-02-24;heurt accidentel d'une personne en zone de quai  par un train de Voyageurs;Île-de-France;Maisons Laffite (78);5.0
+Accident de personne;2025-03-07;heurt accidentel d'une personne sur un Passage à Niveau par le tram -  train;Grand Est;Cernay (68);5.0
+Voyageurs;2025-03-17;un TER se met en mouvement en gare origine sans armement du contrôle automatique par balise. Il franchit un repère (Nf) sans savoir s'il est ouvert ou fermé. La balise de contrôle d'armement déclenche alors le freinage d'urgence.;Île-de-France;Lille Europe (59);4.0
+Réseau;2025-03-18;dégagement intempestif d'un domaine fermé d'un train de travaux sur voie principale;Île-de-France;Saint Denis (93);4.0
+Réseau;2025-03-18;Autorisation de franchissement d'un signal intermédiaire situé dans un domaine fermé avec aiguille mal disposée;Île-de-France;Ermont Eaubonne (95);4.0
+Voyageurs;2025-03-21;Non respect d'un ordre raté d'ouverture RATO;Nouvelle-Aquitaine;Montendre (17);4.0
+Réseau;2025-03-23;dégagement intempestif d'un domaine fermé d'un train de travaux sur voie principale;Île-de-France;Paris Austerlitz;4.0
+Réseau;2025-03-25;Erreur de procédure lors du traitement de défaut de contrôle d'appareils de voie;Hauts-de-France;Grandvillers (60);4.0
+Accident de personne;2023-01-03;heurt avec blessure grave en pliene voie;Île-de-France;La plaine stade de France (93);5.0
+Collision passage à niveau;2023-01-06;Collision d'une voiture avec un TER;Bretagne;Entre Bréteil & Montfort (35);5.0
+Accident de personne;2023-01-09;Chute mortelle entre le quai et le train;Auvergne-Rhône-Alpes;La verpillière (38);5.0
+Accident de personne;2023-01-14;Heurt pas une circulation ferroviaire;Hauts-de-France;Entre lillers et choques (62);5.0
+Accident de personne;2023-01-21;Heurt d'une personne oar un train;Hauts-de-France;Entre valenciennes et le poirier (59);5.0
+Réseau;2023-01-24;Mise hors service par erreur d'un Tableau Indicateur de Vitesse de chantier à Distance (TIVD) sur une Limitation Temporaire de Vitesse sur voie Principale;Auvergne-Rhône-Alpes;Albigny (69;4.0
+Voyageurs;2023-01-27;Déraillement lors de la manoeuvre de placement d'une rame sur une Aiguille sur Voie Principale.;Grand Est;Rothau (67);5.0
+Accident de personne;2023-02-05;Heurt d'une personne par un TER;Normandie;Lison (14);4.0
+Réseau;2023-02-17;Un train de l'EF SNCF Voyageurs heurte un élément de caténaire pendant sur la voie  – Interruption de la circulation supérieure à 6h.;Grand Est;Foug (54);4.0
+Voyageurs;2023-02-21;Situation de Nez à nez entre deux trais de voyageurs;Hauts-de-France;Douai (59);4.0
+Accident de personne;2023-02-23;Heurt accidentel et mortel d'une personne par un tgv;Île-de-France;Maisons alfort;5.0
+Réseau;2023-02-24;Expédition de 4 circulations avec une mauvaise application des mesures prévues pour le passage sur une aiguille de Voie Principale en dérangement.;Provence-Alpes-Côte d'Azur;Cannes-Marchandises;4.0
+Réseau;2023-02-27;Défaut de géométrie détecté par un engin de surveillance de la voie et imposant l'arrêt des circulations.;Hauts-de-France;Somain (59);4.0
+Voyageurs;2023-02-27;Circulation d'une rame TER Corail en service commercial avec une porte ouverte;Auvergne-Rhône-Alpes;Tain l'Hermitage (26);4.0
+Accident de personne;2023-02-27;accident de personne non mortel pour une personne heurtée par un train du gestionnaire de l'infrastructure;Provence-Alpes-Côte d'Azur;Nice saint augustin (06);5.0
+Accident de personne;2023-02-28;accident de personne en zone de quai;Île-de-France;Villennes sur seine (78);5.0
+Accident de personne;2023-03-06;Heurt d'une personne  par un train de voyageurs à un passage à niveau;Île-de-France;herblay (95);5.0
+Réseau;2023-03-09;Absence de commande de limitation de vitesse ayant généré un dépassement de vitesse pour 2 trains de voyageurs;Auvergne-Rhône-Alpes;Entre Grenay et Miribel (01);4.0
+Réseau;2023-03-18;Erreur de procédure du traitement de défaut de  contrôle d'une aiguille;Hauts-de-France;Armentières (59);4.0
+Accident de personne;2023-03-22;découverte d'un corps dans une niche de tunnel;Provence-Alpes-Côte d'Azur;Saint-Louis les aygalades (13);5.0
+Réseau;2023-04-04;Défaut de mesure de protection à la suite du signalement d'un train d'un choc anormal, expédition de deux trains sans l'ordre prévu;Grand Est;Pagny-sur-Moselle (54);4.0
+Réseau;2023-04-14;barrières restées levées à l'approche d'un train après franchissement d'un carré fermé autorisé par l'agent circulation;Hauts-de-France;Orchies (59);4.0
+Réseau;2023-04-22;Défaut de Mesures de Protection suite à présomption de Raté de fermeture d'un Passage à Niveau.  Sans conséquence.;Nouvelle-Aquitaine;Langon (33);4.0
+Accident de personne;2023-04-24;Heurt d'une personne par un train (SNCF Voyageurs) qui traversait les voies en gare en dehors d'un passage aménagé. Personne gravement blessée.;Nouvelle-Aquitaine;Portets (33);5.0
+Réseau;2023-04-27;Défauts de géométrie imposant l'arrêt des circulations détectés lors d'enregistrement supplémentaire de la voiture mauzin;Grand Est;Dormans (51);4.0
+Incident Caténaire;2023-05-15;arrachement de la caténaire par un train transilien sur voie principale;Île-de-France;Beynes (78);5.0
+Réseau;2023-05-15;Délivrance d'une autorisation de franchissement sur la foi d'une vérification erronée;Occitanie;Nimes (30);4.0
+Collision passage à niveau;2023-05-15;collision d'un véhicule routier à un Passage à Niveau avec un train de voyageurs;Île-de-France;Deuil Momagny (95);5.0
+Collision passage à niveau;2023-05-19;Collision avec déraillement d'un train de voyageurs à 123 km/h avec un poids lourd bloqué sur un  Passage à Niveau . Le camion, qui empruntait un itinéraire normalement interdit à ce type de véhicules est resté immobilisé plusieurs minutes sur le passage sans penser à utiliser la borne SOS.;Grand Est;Belleville (54);5.0
+Réseau;2023-05-19;Erreur de procédure pour le franchissement d'un signal suite dérangement de zone;Normandie;Folligny (50);4.0
+FRET;2023-05-25;déraillement de 5 wagons  lors d’une séquence de tri a la gravité;Provence-Alpes-Côte d'Azur;Miramas;5.0
+Réseau;2023-05-25;Expédition de deux trains de Voyageurs sans ordre prévu, suite à raté d'ouverture de deux Passages à Niveaux;Centre-Val de Loire;entre Vierzon et Mehun sur Yèvre (18);4.0
+Collision passage à niveau;2023-05-28;Collision entre une voiture et un  train d'une EF extérieure sur un Passage à Niveau;Occitanie;L’Ardoise (Dépt. 30);5.0
+Réseau;2023-05-30;Expédition d'un train de l'EF SNCF Voyageurs sans ordre prévu, suite à présomption de danger.;Pays de la Loire;Poille sur Vegre (72);4.0
+Réseau;2023-06-04;Désordre d'un ouvrage en terre générant une situation de danger pour les circulations;Auvergne-Rhône-Alpes;Entre Bourgoin et La Tour du Pin (38);4.0
+Réseau;2023-06-05;Dérive d'un train de machines  (SNCF Réseau)  avec franchissement intempestif d'un signal Carré fermé, sans engagement du point protégé;Bretagne;Rennes (35);4.0
+Accident de personne;2023-06-09;accident mortel d'une personne heurtée par un train de l'ef voyageurs;Provence-Alpes-Côte d'Azur;L'estaque (13);5.0
+Réseau;2023-06-15;Défaillance de voie (écartement) découvert suite au passage d'un engin de mesure sur voie unique avec valeur d'arrêt;Centre-Val de Loire;Entre Toury et janville (38);4.0
+Voyageurs;2023-06-25;3 circulations passent à vitesse normale sur voie principale V2 au droit d'un train de voyageurs  en détresse V1,avec intervention pompier en cours;Grand Est;Entre Lézinnes et Nuit sous Ravières (89);4.0
+Voyageurs;2023-06-26;Lors de la manœuvre guidée par refoulement (conducteur en cabine arrière ), le conducteur reçoit un appel du poste par la radio sol train lui demandant de s'arrêter d'urgence. Le poste l'informe qu’il a franchi fermé un carré lors du mouvement et qu’une aiguille a été talonnée. Le chef de manœuvre déclare avoir eu une baisse de vigilance lors de cette manœuvre.;Occitanie;Toulouse (31);5.0
+Voyageurs;2023-07-05;Erreur de procédure pour l'exécution d'une manoeuvre à contre-voie.;Hauts-de-France;Lens  (62);4.0
+Réseau;2023-07-11;Défaut de géométrie  (G3m à 23,5 - valeur d'arrêt) détecté par engin de surveillance sur tiroir TNT (Voie de Service) située à moins de 3m des Voies Principales.;NA;La Rochelle (17);4.0
+Réseau;2023-07-12;Dérive d'un engin rail /route (épareuse) sur Voie Principale.;Occitanie;Mende (dépt. 48) /;4.0
+Voyageurs;2023-07-12;dépassement de vitesse limite supérieur à 40km/h (reprise de vitesse à 80 km/h avant la  fin d'une zone à 30 km/h);Hauts-de-France;Douai (59);4.0
+Accident de personne;2023-07-13;accident de personne;Île-de-France;Corneille en parisis;5.0
+Réseau;2023-07-21;déraillement et renversement d'une pelle rail route sur voie principale, endommagée sur 6m;Auvergne-Rhône-Alpes;entre Charpenay et Salvigny (69);5.0
+Collision passage à niveau;2023-07-30;accident mortel d'un cycliste sur un passage à niveau heurté par un TER;Occitanie;Manduel (30);5.0
+Accident de personne;2023-07-31;heurt d'une personne en pleine voie;Nouvelle-Aquitaine;Agen (47);5.0
+Accident de personne;2023-08-05;heurt d'une personne par un train de voyageurs;Île-de-France;Petit Jouy les Loges (78);5.0
+Réseau;2023-08-16;Défauts de géométrie sur Voie Principale avec valeurs d'arrêt lors d'une tournée d'enregistrement officielle;Île-de-France;entre Provins et Villiers St Georges (77);4.0
+Réseau;2023-08-17;Défaillance de voie sur voie unique avec valeur d'arrêt;Centre-Val de Loire;Entre Les Aubrais & Pithiviers (Dépt : 45);4.0
+Réseau;2023-08-23;Présence de tension dans la Sél 304 après consignation caténaire (Lors de travaux en 2021, les vérifications n’ont pas détecté la non-conformité à savoir la Sél 304 qui devait être reliée au feeder H et non G);Grand Est;Hausbergen (Dépt : 67);4.0
+Réseau;2023-08-24;Autorisation de franchissement d'un sémaphore délivrée sans traitement du dérangement du block manuel de voie unique;Bretagne;Landerneau  (29);4.0
+Accident de personne;2023-08-27;Heurt non mortel d'une personne qui marche au milieu de la voie par le train n°890028 (TRAM-TRAIN);RA;Entre Lyon-Saint-Paul et Lyon-Gorge-de-Loup (69);5.0
+Réseau;2023-08-29;Défaut de Mesures de Protection: commutateurs  non activés suite à procédure de dérangement du Détecteur de Chute de Véhicules. sur LGV SE, pas de conséquence;Auvergne-Rhône-Alpes;Cesseins (01);4.0
+Réseau;2023-08-30;Collision sur voie de service d'une rame de réseau en manœuvre avec une rame stationnée sur un tiroir. Déraillement de deux wagons. Deux blessés à déplorer.;Nouvelle-Aquitaine;Laluque (40);4.0
+Réseau;2023-09-16;Désordre d'ouvrage en terre générant l'arrêt des circulations;Occitanie;Entre Béziers et Millau (34);4.0
+Voyageurs;2023-09-17;Incendie en cabine d'un train TER,  avec evacuation voyageurs et intervention des pompiers;Auvergne-Rhône-Alpes;Entre Les Martres-de-Veyre et Vic-le-conte (63);4.0
+Accident de personne;2023-09-27;accident mortel d'une personne heurtée par un train de voyageurs;Provence-Alpes-Côte d'Azur;Toulon (83);5.0
+Voyageurs;2023-09-27;Porte ouverte en ligne;Hauts-de-France;Valenciennes (59);4.0
+Réseau;2023-10-09;Défaillance de voie découverte suite à passage d'une voiture Mauzin (enregistrement officiel), sur voie unique (VP) avec valeur d'arrêt;Nouvelle-Aquitaine;Entre Bessines & Bif. Poitiers PL (87);4.0
+Accident de personne;2023-10-10;Heurt sur TVP avec train croiseur sans arrêt en gare;Nouvelle-Aquitaine;Sainte foy la grande (33);5.0
+Accident de personne;2023-10-10;Heurt mortel et accidentel ( visualisé via la  vidéo surveillance) d'une personne par un  train de voyageurs transilien  en zone de quai.;Île-de-France;Grigny Centre (91);5.0
+Réseau;2023-10-12;Raté de fermeture d'un sémaphore de sortie de gare, en Voie Unique, découvert par l'Agent Circulation.;Occitanie;Najac (12);4.0
+Accident de personne;2023-10-13;Heurt d'une personne par un  TER en gare;Hauts-de-France;Coudekerque (59);5.0
+Réseau;2023-10-16;Collision d'un train de voyageurs contre un camion d’entreprise sur un Passage à Niveau;Pays de la Loire;"Arnage
+(72)";4.0
+Accident de personne;2023-10-18;Heurt non mortel d'un cycliste sur un  Passage à Niveau;Auvergne-Rhône-Alpes;Entre St-Etienne La Terrasse et  Chateaucreux (42);5.0
+Réseau;2023-10-25;Circulation de trains sans restriction sur une partie de voie devant être franchie à 40km/h;Auvergne-Rhône-Alpes;Entre vichy et riom (03);4.0
+Réseau;2023-10-27;Incident grave de signalisation signalée par un conducteur: présentation simultanée de plusieurs indications sur un panneau (voie libre - ralentissement);Pays de la Loire;Entre montoir et la croix de méan (44);
+Réseau;2023-11-04;Expéditions de circulations sans ordre prévu suite à avis d'enrayage important;Île-de-France;Trilport (77);4.0
+Voyageurs;2023-11-04;Un voyageur  indique qu'une porte de la plateforme contiguës de voiture  est ouverte;Nouvelle-Aquitaine;La souterraine (23);4.0
+Accident de personne;2023-11-05;Heurt non mortel d'un cycliste sur un  Passage à Niveau par un train de voyageurs;Bourgogne-Franche-Comté;Neuilly Crimolois (21);5.0
+Réseau / Fret;2023-11-06;Déraillement d'un train sous certificat de sécurité fret,  suite à bi voie;Centre-Val de Loire;St pierre des corps (37);4.0
+Accident de personne;2023-11-06;Heurt d'une personne par un train de voyageurs;Hauts-de-France;Dunkerque (59);5.0
+Réseau;2023-11-13;expédition d'un train de voyageurs sur pn ouvert;Auvergne-Rhône-Alpes;La roche sur Foron (74);4.0
+Réseau;2023-11-15;défaut de géométrie voie avec valeur d'arrêt détecté lors d'une tournée  d'enregistrement officielle;Hauts-de-France;lens (62);4.0
+Réseau;2023-11-16;Départ d'un train de SNCF Voyageurs de la gare d'Angers avec 2 portes ouvertes: signalisation intempestive et défaut de mesures de protection;Pays de la Loire;Entre Angers et La Poissonnière (dépt. 49);4.0
+Réseau;2023-11-25;Découvert d'un fontis sous une voie principale lors d'une intervention d'astreinte du mainteneur de l'infrastructure sur un enrayage.;Provence-Alpes-Côte d'Azur;Sospel (06);4.0
+Accident de personne;2023-11-27;accident mortel suite heurt d'un usager d'un passage à niveau par un train de voyageurs;Pays de la Loire;entre guichen et lallié (35);5.0
+Réseau;2023-12-09;Autorisation de franchissmeent d'un carré fermé délivré sans vérification des conditions d'ouverture;Centre-Val de Loire;Entre Salbris et Vierzon (41);4.0
+Collision passage à niveau;2023-12-12;Collision d'un véhicule avec un TER (conductrice décédée);Nouvelle-Aquitaine;Lamonzie St Martin (24);5.0
+Cause Externe;2023-12-12;Affaissement de talus signalé par les pompiers. Interdiction de circulation sur voie et ordre de Marche prudente sur l'autre.;Nouvelle-Aquitaine;Entre Angoulème et La Couronne (16);4.0
+Cause Externe;2023-12-13;Ecoulement de rochers sur la voie;Bourgogne-Franche-Comté;Entre besancon et saone (25);4.0
+Collision passage à niveau;2023-12-13;Collision d'un train de Voyageurs avec un camion sur un Passage à Niveau (le conducteur du camion est  gravement blessé);Nouvelle-Aquitaine;Rocamadour (46);5.0
+Accident de personne;2024-01-03;heurt d'une personne heurtée par un train de voyageurs;Provence-Alpes-Côte d'Azur;Mondragon (84);5.0
+Accident de personne;2024-01-09;chute sur la voie d'une personne s'étant accroché à l'extérieur un train de voyageurs au moment du départ;Bretagne;Brest (29);5.0
+Réseau;2024-01-15;Expédition de deux trains de l'EF SNCF Voyageurs sans ordre prévu, suite à raté d'ouverture d'un Passage à Niveau;Bretagne;Entre Messac-Guipry & Fougeray-Langon PL (35);4.0
+Réseau;2024-01-30;Dégagement intempestif d'un domaine fermé  et mouvement en sens inverse sur Voie Principale par un Train de Travaux;Grand Est;Strasbourg (67);4.0
+Réseau;2024-02-08;Autorisation de franchissement de signaux intermédiaires délivrée par un agent circulation à un responsable travaux sur une demande de fermeture de voies avec  appareils de voies mal positionnés;Occitanie;Rabastens et Gaillac (81);4.0
+Accident de personne;2024-02-11;heurt d'une personne par un train de Voyageurs;Provence-Alpes-Côte d'Azur;Venelles (13);5.0
+Réseau;2024-02-23;Circulation de plusieurs trains sans restriction de vitesse sur un appareil de voie  ayant fait l'objet d'un talonnage par un Lorry AutoMoteur;Grand Est;Lamorville (55);4.0
+Cause Externe;2024-02-27;Défaut de nivellement en valeur d'arrêt, découvert suite signalement mouvement anormal de la voie par un train de SNCF voyageurs.;Nouvelle-Aquitaine;Entre Colyarac PL et Port Ste Marie (47);4.0
+Réseau;2024-02-28;Découverte d'un rail cassé à la suite du signalement du conducteur d'un train de SNCF Voyageurs;Hauts-de-France;Entre Vierzy et Soissons (02);4.0
+Réseau;2024-02-29;Sortie intepestive d'un domaine fermé par un Lorry Auto Moteur par un engin de Réseau puis engagement intempestif d'un autre domaine fermé;Île-de-France;Bois colombes (92);4.0
+Electrocution;2024-02-29;Electrocution d'une personne qui s'est jetée sur la voie depuis un pont;Bretagne;Quimper (29);5.0
+Réseau;2024-03-06;Expédition d'un train  Transilien Sans Ordre Prévu à la suite du dérangement d'un Passage à Niveau;Île-de-France;Brétigny (91);4.0
+Réseau;2024-03-08;Défaillance de voie puis expédition sans ordre suite signalement par des conducteurs de trains de voyageurs;Grand Est;Lesse (57);4.0
+Réseau;2024-03-11;Heurt mortel d’un salarié par un train de l'EF Naviland Cargo;Bourgogne-Franche-Comté;Dijon (21);5.0
+Accident de personne;2024-03-17;Heurt dun véhicule routier par une circulation ferroviaire sur un passage à niveau.;Hauts-de-France;Auby (59);5.0
+Réseau;2024-03-20;Franchissement de Carré sur Voie Princiaple par un Train de Travaux de l' EF SECURAIL, en parcours d' acheminement, avant engagement sur les travaux.;Auvergne-Rhône-Alpes;Modane (73);4.0
+Réseau;2024-03-22;Expédition Sans lOrdre Prévu . Remise d'ordre avec kilométarge erroné à un train de SNCF Voyageurs (Franchissement PN à vitesse normale);Occitanie;Entre Leucate La Franqui et Salses PL (66);4.0
+Accident de personne;2024-04-08;heurt d'une personne par une circulation ferroviaire sur une Traversée de Voie Principale;Hauts-de-France;Pont à Vendin (62);5.0
+Accident de personne;2024-04-09;heurt d'une personne par un TER aux abords d'un Passage  à Niveau;Auvergne-Rhône-Alpes;Aix les bains (73);5.0
+Réseau;2024-04-11;Franchissement d’un SAM encadrant une activité par un LAM sur domaine fermé. Opérateurs SE dégageant la voie surpris de son arrivée.;Pays de la Loire;Entre la Jumellière et Chemillé (49);4.0
+Collision passage à niveau;2024-04-12;Collision au PN 103 bis d’un camion avec le train 868461 (EF SNCF Voyageurs);NA;Aubazine St Hilaire (19);5.0
+Accident de personne;2024-04-19;train de voyaguers freine d'urgence suite à 2 personnes agées  traversant un PN fermé;Occitanie;Albi Madeleine;4.0
+Collision passage à niveau;2024-05-06;heurt d'une voiture sur un Passage à Niveau par un train de Voyageurs entrainant le décès du conducteur du véhicule routier;Nouvelle-Aquitaine;Razac (24);5.0
+Réseau;2024-05-14;Défaut de géométrie imposant l?arrêt des circulations, détecté lors d?un enregistrement officiel des voies;Hauts-de-France;Somain (59);4.0
+Cause Externe?;2024-05-22;plusieurs wagons déraillent lors la réception d’un train de céréales constitué de 20 wagons. Dégâts importants à l’infrastructure (triage inaccessible côté Soissons et Tergnier). Wagons déraillés du 3ème au 7ème .;Hauts-de-France;Laon (02);4.0
+Réseau;2024-06-03;Expéditions Sans Ordre Prévu (ESOP) de plusieurs trains lors du dérangements de 2 aiguilles.;Auvergne-Rhône-Alpes;Grenoble (38);4.0
+Réseau;2024-06-13;Caisson lumineux de la Traversée de Voie Principale masqué par le Gestionnaire de l'infrastructure Maintenance sans avis au service Gestionnaire des Circulations;Nouvelle-Aquitaine;Pamproux (79);4.0
+Accident de personne;2024-06-14;heurt d'une personne par une circulation ferroviaire pau train de l'EF Europe Express;Hauts-de-France;Montigny en Ostrevent (59);5.0
+Réseau;2024-06-24;Talonnage d'une aiguille et déraillement sur voie de service d'un train de voyageurs  expédié vers une zone de travaux;Nouvelle-Aquitaine;Arcachon (33);4.0
+Réseau;2024-06-20;Autorisation de Franchissement Sans Vérification de signal délivrée au conducteur du train de fret de l'EF Naviland Cargo  puis franchissement intempestif d'un Carré violet bas fermé;Bourgogne-Franche-Comté;Lézinnes (89);4.0
+Réseau;2024-06-21;Circulation de plusieurs trains sans restriction de vitesse sur un appareil de voie  ayant fait l'objet d'un talonnage par un train de travaux;Auvergne-Rhône-Alpes;Grenay (38);4.0
+Voyageurs;2024-06-24;Franchissement d'un Signal d'Arrêt à Main;Occitanie;Aigues Mortes (30);4.0
+Fret;2024-07-17;Tamponnement de l’engin moteur d'un train à l'arrivée sur site par des wagons lors d'une manœuvre de refoulement  vers la bosse ( choc à environ 4km/h);Auvergne-Rhône-Alpes;Sibelin (69);4.0
+Réseau;2024-07-18;Défaut de géométrie voie en valeur d’arrêt découvert à la suite d’un enregistrement officiel de mesure des voies. Gauche calculé sur 3m de 26,9mm et Ed (écart de dévers) de 26,6mm - Voie UIC9AV.;NA;Monsempron-Libos (47);4.0
+Accident de personne;2024-07-24;Accident mortel d'une personne heurté par un train de l’EF voyageurs à la traversée d'une TVP.;Provence-Alpes-Côte d'Azur;Vidauban (83);5.0
+Réseau;2024-07-26;EAp (Enclenchement d’Approche) non actif lors de l’occupation de la ZAp (Zone Approche) du C (Carré) 283 consécutif à une erreur d’étude;Grand Est;Thionville (57);4.0
+Accident de personne;2024-07-30;Heurt mortel d’une personne par train n° 879752 (EF SNCF Voyageurs);Provence-Alpes-Côte d'Azur;Marseille (13);5.0
+Fret;2024-08-14;bi voie, suivi d’un déraillement d’un train de fret lors de sa réception;Nouvelle-Aquitaine;Hourcade (33);
+Accident de personne;2024-08-20;Heurt d’une personne par le train 841825 (EF SNCF Voyageurs) au niveau du point d’arrêt – victime blessée emmenée par les pompiers;HdF;Louvroil (59);5.0
+Accident de personne;2024-08-22;Heurt mortel d’une personne par un train de Voyageurs;Pays de la Loire;Saint Etienne de Monluc (44);5.0
+Réseau;2024-09-01;Désordre d'ouvrage en terre, pour coulée de boue, signalé par un tiers à un Passage à Niveau avec arrêt des circulations;Bretagne;Entre Baud & Saint Nicolas des Eaux PL (56);4.0
+Réseau;2024-09-05;Effondrement d'un mur côté voie 2 et affaissement de terrain côté voie 1 nécessitant une interdiction de circulation, à la suite de fortes intempéries;Provence-Alpes-Côte d'Azur;Anthéor (06);4.0
+Collision passage à niveau;2024-09-13;Heurt d’une voiture par un train de Voyageurs sur un Passage à Niveau;Hauts-de-France;Templemars (59);5.0
+Accident de personne;2024-09-16;Blessé grave suite heurt d'un tiers par un train de Voyageurs en pleine voie;Occitanie;entre Marmande (47) et Langon (33);5.0
+Accident de personne;2024-09-25;Heurt d'une personne par un train de Voyageurs sur une Traversée de Voie Principale;Provence-Alpes-Côte d'Azur;Solliès Pont (83);5.0
+Réseau;2024-09-27;Expédition de plusieurs circulations sans ordre prévu sur un PN en raté d'ouverture.;Hauts-de-France;Rivecourt (60);4.0
+Réseau;2024-10-02;déraillement des trois derniers véhicules d'un train de Fret;Hauts-de-France;Château Thierry (02);5.0
+Voyageurs;2024-10-03;franchissement intempestif d'un signal carré avec engagement du point protégé;Île-de-France;La Verrière (78);4.0
+Réseau;2024-10-04;Transmission d'une autorisation de franchissement de signal fermé avec omission de vérification de condition nécessaire à son ouverture.;Normandie;Granville (50);4.0
+Cause Externe;2024-10-17;Désordre d'ouvrage en terre - Glissement de terrain sur voie unique, coulées de boue et inondations (tempête Leslie);Île-de-France;Entre Auneau (28) et Dourdan (91);4.0
+Voyageurs;2024-10-17;DVL + 52 KM/H sur 650 mètres.;Occitanie;Lourdes (65);4.0
+Réseau;2024-10-18;Autorisation de franchissement d'un sémaphore fermé, délivré à un train de Voyageurs, sans vérification train de sens contraire;Nouvelle-Aquitaine;Bussière-Galant (24);4.0
+Accident de personne;2024-10-21;Heurt dune personne par un train de Voyageurs au franchissement d'un Point d'Arrêt Ferroviaire;Grand Est;Laneuveville-devant-Nancy (54);5.0
+Accident de personne;2024-10-24;Heurt d'une personne en trotinette sur un PN par un train de Voyageurs;Occitanie;entre Empalot et st syprien arènes (31);5.0
+Accident de personne;2024-10-26;accident mortel suite à la chute d'un voyageur depuis un train en marche;Pays de la Loire;Belleville vendée (85);5.0
+Accident de personne;2024-11-07;Heurt non mortel en gare suite à tentative de montée en marche;Île-de-France;Villepreux les clayes (78);5.0
+Réseau;2024-11-13;ratés de fermeture de deux Passages à Niveau signalés par le conducteur d'un train de l'EF Voyageurs;Grand Est;Hochfeiden (67);4.0
+Réseau;2024-11-14;Rail cassé découvert suite au dérangement d'une zone: lacune de 16 mm avec interdiction de circuler sur une voie.;Nouvelle-Aquitaine;Jonzac (17);4.0
+Accident de personne;2024-11-15;Heurt mortel d'une personne par un train de Voyageurs au franchissement d'un Passage à Niveau;Hauts-de-France;Loos (59);5.0
+Fret;2024-11-26;Dérive d'environ 300m d'une rame de 17 wagons et de l’engin moteur, arrêt d'elle-même après la franchissement d'un carré  et avant celui de l'aiguille protégée.;Occitanie;Saint Jory (31);4.0
+Accident de personne;2024-12-06;Heurt mortel d'une personne en pleine voie;Provence-Alpes-Côte d'Azur;Sainte Marthe (13);5.0
+Accident de personne;2024-12-16;Accident de personne en pleine voie;Centre-Val de Loire;Joué les Tours (37);5.0
+Voyageurs;2024-12-18;Transmission du Service Terminé  sans Service Achevé et mise en mouvement pendant une prestation PSH.;Auvergne-Rhône-Alpes;Valence (26);4.0
+Accident de personne;2024-12-20;Heurt de personne par un train de Voyageurs;Auvergne-Rhône-Alpes;Lyon Brotteaux (69);5.0
+Accident de personne;2025-01-01;accident de personne;Île-de-France;Le Chenay Gagny (93);5.0
+Accident de personne;2025-01-08;Collision piéton à un Passage à Niveau par un train de Voyageurs;Grand Est;Entzheim  (67);5.0
+Fret;2025-01-21;oubli de la marche resrictive (marche à vue) par un conducteur après arrêt à un feu blanc.;Pays de la Loire;Saumur (49);4.0
+Electrisation;2025-01-22;éléctrocition d'un agent d'une entreprise extérieure sur un chantier suite rapide caténaire;Provence-Alpes-Côte d'Azur;Toulon (83);5.0
+Réseau;2025-01-26;Erreur lors de la mise en place d'une Limitation Temporaire de Vitesse;Normandie;Pont l'Evêque (Dépt. 60);4.0
+Réseau;2025-01-28;Erreur d'itinéraire provoquant une Réception sur Voie Occupée sur Voie de Service et réalisation d'un refoulement de 400m environ sur Voie Principale à Contrevoie  sans mesure de protection et tracé de l'itinéraire;Nouvelle-Aquitaine;Bordeaux Hourcade (33);4.0
+Cause Externe;2025-01-28;Coulée de boue et de branches d'arbres, sur la voie.;Auvergne-Rhône-Alpes;Entre Longeray-Léaz (01) et L'Ecluse- Collonges (01).;4.0
+Accident de personne;2025-02-03;Heurt accidentel d'une personne en zone de quai par un train vide de Voyageurs;Île-de-France;La garenne Colombe (92);5.0
+Cause Externe;2025-02-07;heurt d'un camion par une manœuvre guidée sur voie de service à la traversée d'une piste carrossable;Bourgogne-Franche-Comté;Saincaize (58);4.0
+Accident de personne;2025-02-17;heurt mortel en pleine voie d'une personne par un train de Voyageurs;Occitanie;Carcassonne (11);5.0
+Réseau;2025-02-24;Délivrance d'une autorisation de franchissement sans Vérification à un train de Réseau sur Voie Principale;Bourgogne-Franche-Comté;Dijon Porte Neuve (21);4.0
+Accident de personne;2025-02-26;heurt accidentel d'une personne en ligne par un train de Voyageurs;Hauts-de-France;Bifurcation de Coulogne (62);5.0
+Collision passage à niveau;2025-02-27;collision entre un train  HEXAFRET transportant des matières dangereuses et un camion sur un Passage à Niveau;Grand Est;Bénestroff (57);4.0
+Collision passage à niveau;2025-03-07;Collision d'un tracteur par un train de Voyageurs au franchissement d'un Passage à Niveau;Bretagne;Montauban de Bretagne (35);4.0
+Accident de personne;2025-03-17;heurt d'une personne par un train de Voyageurs au franchissement d'u Passage à Niveau;Grand Est;Pontieux (88);4.0
+Collision passage à niveau;2025-03-17;Heurt d’un véhicule à un passage à niveau. Les deux occupants du véhicule  sont décédés;Hauts-de-France;Bailleul (59);5.0
+Réseau;2025-03-24;Défaut de géométrie  sur Voie Principale imposant l'arrêt des circulations détecté par le wagon SIM lors d'une tournée;Grand Est;Woippy (57);4.0
+Accident de personne;2025-03-28;Chute d’une personne entre un quai et un train de Voyageurs  lors de sa mise en mouvement;Auvergne-Rhône-Alpes;Chalon sur saone (71);5.0
