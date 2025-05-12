@@ -1,0 +1,14 @@
+JeudiLob:
+  outputs:
+    nba:
+      type: duckdb
+      path: ../Db/nba.db
+      threads: 4
+
+
+    pbi:
+      type: duckdb
+      path: ../Db/pbi.db
+      threads: 4
+
+  target: nba
