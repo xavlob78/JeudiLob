@@ -51,8 +51,13 @@ Installation
   * Creation Modele Equipe a partir des sources csv.team, csv.team_details, nbaapi.teamdetails
   * Ajout de tests sur le modele genere
           unique et not_null sur les clés
-    
-  
+ * Creation de la table Joueurs a partir de csv_player, csv_common_player_info, api.players_details,api.players
+    * Ajout de tests sur le modele genere
+          unique et not_null sur les clés
+* Creation Table Stats_Joueurs (Joueurs, Equipe, api.players) en modele incremental par rapport a dlt_loads
+
+* generation docs : dbt docs generate
+* dbt docs serve
    
 Données acrelec
   1. doc API : https://boh-lab-br.acrelec.com:9443/mwboh/doc/
