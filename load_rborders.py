@@ -58,7 +58,7 @@ def acrelec_source(last_date :str):
 def load_acrelec(last_date :str, default="20240101000000") -> None:
     pipeline = dlt.pipeline(
         pipeline_name="rb_orders",
-        destination=dlt.destinations.duckdb("Data/rb.db"),
+        destination=dlt.destinations.duckdb("Db/rb.db"),
         dataset_name="rb_orders",
         progress="log",
         dev_mode=True
