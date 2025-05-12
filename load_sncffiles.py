@@ -1,28 +1,233 @@
-import dlt
-import os
-from dlt.sources.filesystem import filesystem, read_csv
-
-# Liste tous les fichiers CSV dans le dossier Data/Sncf
-files = [f for f in os.listdir("./Data/Sncf/") if f.endswith('.csv')]
-
-# Initialise le pipeline dlt
-pipeline = dlt.pipeline(
-    pipeline_name="sncf", 
-    destination=dlt.destinations.duckdb("Db/sncf.db"),
-    dataset_name="csv",
-)
-
-# Pour chaque fichier CSV, crée une ressource et charge-la dans la base DuckDB
-for file in files:
-    # Nom de la table basé sur le nom du fichier (sans extension)
-    table_name = os.path.splitext(file)[0]
-    filesystem_pipe = filesystem(
-        bucket_url="file:///C:/Dev/Lobellia/Data/Sncf/", 
-        file_glob=file
-    ) | read_csv(delimiter=';')
-    
-    print("............." + table_name + "..........")
-
-    # Exécute le pipeline pour ce fichier/table
-    info = pipeline.run(filesystem_pipe, table_name=table_name, write_disposition="replace")
-    print(info)
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import dlt\n",
+    "import os\n",
+    "from dlt.sources.filesystem import filesystem, read_csv"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "files = [f for f in os.listdir(\"./Data/Sncf/\") if f.endswith('.csv')]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "pipeline = dlt.pipeline(\n",
+    "    pipeline_name=\"sncf\", \n",
+    "    destination=dlt.destinations.duckdb(\"Db/sncf.db\"),\n",
+    "    dataset_name=\"csv\",\n",
+    "    progress=\"log\"\n",
+    ")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      ".............comptage-voyageurs-trains-transilien..........\n",
+      "--------------------------------- Extract sncf ---------------------------------\n",
+      "Resources: 0/1 (0.0%) | Time: 0.00s | Rate: 0.00/s\n",
+      "Memory usage: 168.80 MB (88.30%) | CPU usage: 0.00%\n",
+      "\n",
+      "--------------------------------- Extract sncf ---------------------------------\n",
+      "Resources: 0/1 (0.0%) | Time: 0.27s | Rate: 0.00/s\n",
+      "comptage_voyageurs_trains_transilien: 7422  | Time: 0.00s | Rate: 0.00/s\n",
+      "Memory usage: 175.93 MB (88.50%) | CPU usage: 0.00%\n",
+      "\n",
+      "--------------------------------- Extract sncf ---------------------------------\n",
+      "Resources: 1/1 (100.0%) | Time: 0.30s | Rate: 3.39/s\n",
+      "comptage_voyageurs_trains_transilien: 7422  | Time: 0.03s | Rate: 283037.15/s\n",
+      "Memory usage: 175.93 MB (88.50%) | CPU usage: 0.00%\n",
+      "\n",
+      "--------------------------------- Extract sncf ---------------------------------\n",
+      "Resources: 0/1 (0.0%) | Time: 0.00s | Rate: 0.00/s\n",
+      "Memory usage: 175.94 MB (88.50%) | CPU usage: 0.00%\n",
+      "\n",
+      "--------------------------------- Extract sncf ---------------------------------\n",
+      "Resources: 0/1 (0.0%) | Time: 0.01s | Rate: 0.00/s\n",
+      "_dlt_pipeline_state: 1  | Time: 0.00s | Rate: 0.00/s\n",
+      "Memory usage: 175.94 MB (88.50%) | CPU usage: 0.00%\n",
+      "\n",
+      "--------------------------------- Extract sncf ---------------------------------\n",
+      "Resources: 1/1 (100.0%) | Time: 0.03s | Rate: 34.61/s\n",
+      "_dlt_pipeline_state: 1  | Time: 0.02s | Rate: 43.67/s\n",
+      "Memory usage: 175.94 MB (88.50%) | CPU usage: 0.00%\n",
+      "\n",
+      "--------------------- Normalize sncf in 1747052237.5605361 ---------------------\n",
+      "Files: 0/2 (0.0%) | Time: 0.00s | Rate: 0.00/s\n",
+      "Memory usage: 176.25 MB (88.40%) | CPU usage: 0.00%\n",
+      "\n",
+      "--------------------- Normalize sncf in 1747052237.5605361 ---------------------\n",
+      "Files: 0/2 (0.0%) | Time: 0.00s | Rate: 0.00/s\n",
+      "Items: 0  | Time: 0.00s | Rate: 0.00/s\n",
+      "Memory usage: 176.25 MB (88.40%) | CPU usage: 0.00%\n",
+      "\n",
+      "--------------------- Normalize sncf in 1747052237.5605361 ---------------------\n",
+      "Files: 2/2 (100.0%) | Time: 0.35s | Rate: 5.65/s\n",
+      "Items: 7423  | Time: 0.35s | Rate: 21287.88/s\n",
+      "Memory usage: 183.31 MB (88.60%) | CPU usage: 0.00%\n",
+      "\n",
+      "----------------------- Load sncf in 1747052237.5605361 ------------------------\n",
+      "Jobs: 0/2 (0.0%) | Time: 0.00s | Rate: 0.00/s\n",
+      "Memory usage: 183.37 MB (88.60%) | CPU usage: 0.00%\n",
+      "\n",
+      "----------------------- Load sncf in 1747052237.5605361 ------------------------\n",
+      "Jobs: 2/2 (100.0%) | Time: 0.83s | Rate: 2.40/s\n",
+      "Memory usage: 183.36 MB (88.80%) | CPU usage: 0.00%\n",
+      "\n",
+      "Pipeline sncf load step completed in 0.83 seconds\n",
+      "1 load package(s) were loaded to destination duckdb and into dataset csv\n",
+      "The duckdb destination used duckdb:///c:\\Dev\\Lobellia\\Db/sncf.db location to store data\n",
+      "Load package 1747052237.5605361 is LOADED and contains no failed jobs\n",
+      ".............incidents-de-securite-epsf..........\n",
+      "--------------------------------- Extract sncf ---------------------------------\n",
+      "Resources: 0/1 (0.0%) | Time: 0.00s | Rate: 0.00/s\n",
+      "Memory usage: 183.83 MB (88.80%) | CPU usage: 0.00%\n",
+      "\n",
+      "--------------------------------- Extract sncf ---------------------------------\n",
+      "Resources: 0/1 (0.0%) | Time: 0.02s | Rate: 0.00/s\n",
+      "incidents_de_securite_epsf: 812  | Time: 0.00s | Rate: 0.00/s\n",
+      "Memory usage: 186.41 MB (88.80%) | CPU usage: 0.00%\n",
+      "\n",
+      "--------------------------------- Extract sncf ---------------------------------\n",
+      "Resources: 1/1 (100.0%) | Time: 0.07s | Rate: 14.67/s\n",
+      "incidents_de_securite_epsf: 812  | Time: 0.05s | Rate: 16547.43/s\n",
+      "Memory usage: 186.59 MB (88.80%) | CPU usage: 0.00%\n",
+      "\n",
+      "--------------------- Normalize sncf in 1747052239.344159 ----------------------\n",
+      "Files: 0/1 (0.0%) | Time: 0.00s | Rate: 0.00/s\n",
+      "Memory usage: 186.60 MB (88.80%) | CPU usage: 0.00%\n",
+      "\n",
+      "--------------------- Normalize sncf in 1747052239.344159 ----------------------\n",
+      "Files: 0/1 (0.0%) | Time: 0.00s | Rate: 0.00/s\n",
+      "Items: 0  | Time: 0.00s | Rate: 0.00/s\n",
+      "Memory usage: 186.60 MB (88.80%) | CPU usage: 0.00%\n",
+      "\n",
+      "--------------------- Normalize sncf in 1747052239.344159 ----------------------\n",
+      "Files: 1/1 (100.0%) | Time: 0.09s | Rate: 11.68/s\n",
+      "Items: 812  | Time: 0.09s | Rate: 9484.49/s\n",
+      "Memory usage: 187.16 MB (88.80%) | CPU usage: 0.00%\n",
+      "\n",
+      "------------------------ Load sncf in 1747052239.344159 ------------------------\n",
+      "Jobs: 0/1 (0.0%) | Time: 0.00s | Rate: 0.00/s\n",
+      "Memory usage: 187.16 MB (88.80%) | CPU usage: 0.00%\n",
+      "\n",
+      "------------------------ Load sncf in 1747052239.344159 ------------------------\n",
+      "Jobs: 1/1 (100.0%) | Time: 0.36s | Rate: 2.76/s\n",
+      "Memory usage: 186.25 MB (88.90%) | CPU usage: 0.00%\n",
+      "\n",
+      "Pipeline sncf load step completed in 0.36 seconds\n",
+      "1 load package(s) were loaded to destination duckdb and into dataset csv\n",
+      "The duckdb destination used duckdb:///c:\\Dev\\Lobellia\\Db/sncf.db location to store data\n",
+      "Load package 1747052239.344159 is LOADED and contains no failed jobs\n",
+      ".............tarifs-tgv-inoui-ouigo..........\n",
+      "--------------------------------- Extract sncf ---------------------------------\n",
+      "Resources: 0/1 (0.0%) | Time: 0.00s | Rate: 0.00/s\n",
+      "Memory usage: 186.71 MB (88.90%) | CPU usage: 0.00%\n",
+      "\n",
+      "--------------------------------- Extract sncf ---------------------------------\n",
+      "Resources: 0/1 (0.0%) | Time: 0.12s | Rate: 0.00/s\n",
+      "tarifs_tgv_inoui_ouigo: 10000  | Time: 0.00s | Rate: 0.00/s\n",
+      "Memory usage: 190.33 MB (88.90%) | CPU usage: 0.00%\n",
+      "\n",
+      "--------------------------------- Extract sncf ---------------------------------\n",
+      "Resources: 1/1 (100.0%) | Time: 0.38s | Rate: 2.62/s\n",
+      "tarifs_tgv_inoui_ouigo: 34135  | Time: 0.27s | Rate: 128144.66/s\n",
+      "Memory usage: 185.90 MB (88.90%) | CPU usage: 0.00%\n",
+      "\n",
+      "--------------------- Normalize sncf in 1747052240.0560238 ---------------------\n",
+      "Files: 0/1 (0.0%) | Time: 0.00s | Rate: 0.00/s\n",
+      "Memory usage: 186.43 MB (88.90%) | CPU usage: 0.00%\n",
+      "\n",
+      "--------------------- Normalize sncf in 1747052240.0560238 ---------------------\n",
+      "Files: 0/1 (0.0%) | Time: 0.01s | Rate: 0.00/s\n",
+      "Items: 0  | Time: 0.00s | Rate: 0.00/s\n",
+      "Memory usage: 186.43 MB (88.90%) | CPU usage: 0.00%\n",
+      "\n",
+      "--------------------- Normalize sncf in 1747052240.0560238 ---------------------\n",
+      "Files: 1/1 (100.0%) | Time: 1.17s | Rate: 0.86/s\n",
+      "Items: 0  | Time: 1.16s | Rate: 0.00/s\n",
+      "Memory usage: 196.32 MB (89.00%) | CPU usage: 0.00%\n",
+      "\n",
+      "--------------------- Normalize sncf in 1747052240.0560238 ---------------------\n",
+      "Files: 1/1 (100.0%) | Time: 1.19s | Rate: 0.84/s\n",
+      "Items: 34135  | Time: 1.18s | Rate: 29049.72/s\n",
+      "Memory usage: 196.34 MB (89.10%) | CPU usage: 0.00%\n",
+      "\n",
+      "----------------------- Load sncf in 1747052240.0560238 ------------------------\n",
+      "Jobs: 0/1 (0.0%) | Time: 0.00s | Rate: 0.00/s\n",
+      "Memory usage: 196.34 MB (89.10%) | CPU usage: 0.00%\n",
+      "\n",
+      "----------------------- Load sncf in 1747052240.0560238 ------------------------\n",
+      "Jobs: 0/1 (0.0%) | Time: 2.85s | Rate: 0.00/s\n",
+      "Memory usage: 209.79 MB (87.30%) | CPU usage: 0.00%\n",
+      "\n",
+      "----------------------- Load sncf in 1747052240.0560238 ------------------------\n",
+      "Jobs: 1/1 (100.0%) | Time: 3.00s | Rate: 0.33/s\n",
+      "Memory usage: 195.39 MB (87.20%) | CPU usage: 0.00%\n",
+      "\n",
+      "Pipeline sncf load step completed in 3.01 seconds\n",
+      "1 load package(s) were loaded to destination duckdb and into dataset csv\n",
+      "The duckdb destination used duckdb:///c:\\Dev\\Lobellia\\Db/sncf.db location to store data\n",
+      "Load package 1747052240.0560238 is LOADED and contains no failed jobs\n"
+     ]
+    }
+   ],
+   "source": [
+    "for file in files:\n",
+    "    # Create a source for each file\n",
+    "    table_name = os.path.splitext(file)[0]\n",
+    "    filesystem_pipe = filesystem(\n",
+    "        bucket_url=\"file:///C:/Dev/Lobellia/Data/Sncf/\", \n",
+    "        file_glob=file\n",
+    "        ) | read_csv(delimiter=';')\n",
+    "    \n",
+    "    print(\".............\"+table_name+\"..........\")\n",
+    "\n",
+    "    # Specify the table name using with_name()\n",
+    "    info = pipeline.run(filesystem_pipe, table_name=table_name, write_disposition=\"replace\")\n",
+    "    print(info)"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": ".venv",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.11"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
