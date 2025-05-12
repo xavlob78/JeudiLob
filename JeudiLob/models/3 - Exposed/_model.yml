@@ -1,0 +1,45 @@
+version: 2
+
+sources:
+  - name: dwh
+    tables:
+      - name: equipes
+        columns:
+          - name: idequipe
+            tests:
+              - not_null
+              - unique
+
+          - name: idequipenba
+            tests:
+              - not_null
+          - name: nomequipe
+          - name: abbrevequipe
+          - name: villeequipe
+          - name: etatequipe
+          - name: nomarene
+          - name: capacitearene
+          - name: conference
+          - name: division
+          - name: entraineuractuel
+
+      - name: joueurs
+        columns:
+          - name: id
+            tests:
+              - unique
+
+          - name: nomcomplet
+          - name: prenom
+          - name: nom
+          - name: estactif
+          - name: datedenaissance
+          - name: universite
+          - name: pays
+          - name: anneededraft
+          - name: taille
+          - name: poids
+          - name: position
+          - name: experience
+          - name: anneededraft_1
+

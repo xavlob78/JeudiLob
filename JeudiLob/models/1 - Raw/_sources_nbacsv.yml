@@ -5,8 +5,16 @@ sources:
     schema: csv
     tables:
       - name: _dlt_loads
-      - name: _dlt_pipeline_state
-      - name: _dlt_version
+
+        freshness:
+          warn_after:
+            count: 1
+            period: day
+          error_after:
+            count: 3
+            period: day
+        loaded_at_field: inserted_at
+
       - name: common_player_info
       - name: draft_combine_stats
       - name: draft_history
