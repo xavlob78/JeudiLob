@@ -47,6 +47,14 @@ pipeline = dlt.pipeline(
         progress="log"
     )
 
+
+pipe_bq = dlt.pipeline(
+        pipeline_name="snowbq",
+        destination="bigquery",
+        dataset_name="snowflake_data",
+        progress="log"  # Show progress during load
+)
+
 if __name__ == "__main__":
     load =pipeline.run(snowflake_source())
     print(load)
