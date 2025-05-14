@@ -61,11 +61,10 @@ def load_acrelec(last_date :str, default="20240101000000") -> None:
         destination=dlt.destinations.duckdb("Db/rb.db"),
         dataset_name="rb_orders",
         progress="log",
-        dev_mode=True
     )
     load_info = pipeline.run(acrelec_source(last_date))
     # Suppose you get the latest timestamp from load_info or your data
     print(load_info)
 
 if __name__ == "__main__":
-    load_acrelec("20250101000000")
+    load_acrelec("20240101000000")
