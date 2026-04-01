@@ -1,0 +1,20 @@
+# Généré automatiquement - Base: dbtdev, Schéma: main_SILVER
+version: 2
+models:
+- name: datagouv_communes
+  columns:
+  - name: code_insee
+  - name: nom_commune
+  - name: departement
+  - name: region
+  - name: type_commune
+- name: osm_restau_communes
+  columns:
+  - name: code_insee
+  - name: nom_commune
+  - name: region
+  - name: code_region
+  - name: departement
+  - name: code_departement
+  - name: commune
+  - name: code_commune

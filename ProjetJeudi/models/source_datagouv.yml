@@ -1,0 +1,50 @@
+# Généré automatiquement pour la base : datagouv
+version: 2
+sources:
+- name: datagouv
+  database: datagouv
+  schema: main
+  tables:
+  - name: communes
+    columns:
+    - name: CODGEO
+    - name: LIBGEO
+    - name: DEP
+    - name: CTCD
+    - name: REG
+    - name: EPCI
+    - name: EPT
+    - name: ARR
+    - name: CANOV
+    - name: UU2020
+    - name: TYPE_COMMUNE_UU
+    - name: STATUT_COM_UU
+    - name: TUU2017
+    - name: TDUU2017
+    - name: TYPE_UU2020
+    - name: AAV2020
+    - name: CATEAAV2020
+    - name: TAAV2017
+    - name: TDAAV2017
+    - name: BV2022
+    - name: TYPE_COMMUNE_BV2022
+    - name: TYPE_BV2022
+    - name: ZE2020
+    - name: "Typo.degr\xE9.densit\xE9"
+    - name: Typo.rural.urbain
+    - name: zone_competence
+  - name: delinquance
+    columns:
+    - name: CODGEO_2025
+    - name: annee
+    - name: indicateur
+    - name: unite_de_compte
+    - name: nombre
+    - name: taux_pour_mille
+    - name: est_diffuse
+    - name: insee_pop
+    - name: insee_pop_millesime
+    - name: insee_log
+    - name: insee_log_millesime
+    - name: complement_info_nombre
+    - name: complement_info_taux

@@ -1,0 +1,81 @@
+# Généré automatiquement pour la base : meteo
+version: 2
+sources:
+- name: meteo
+  database: meteo
+  schema: main
+  tables:
+  - name: current_weather
+    columns:
+    - name: base
+    - name: visibility
+    - name: dt
+    - name: timezone
+    - name: id
+    - name: name
+    - name: cod
+    - name: city
+    - name: sys__type
+    - name: sys__id
+    - name: sys__country
+    - name: sys__sunrise
+    - name: sys__sunset
+    - name: clouds__all
+    - name: wind__speed
+    - name: wind__deg
+    - name: main__temp
+    - name: main__feels_like
+    - name: main__temp_min
+    - name: main__temp_max
+    - name: main__pressure
+    - name: main__humidity
+    - name: main__sea_level
+    - name: main__grnd_level
+    - name: coord__lon
+    - name: coord__lat
+    - name: _dlt_load_id
+    - name: _dlt_id
+    - name: wind__gust
+  - name: current_weather__weather
+    columns:
+    - name: id
+    - name: main
+    - name: description
+    - name: icon
+    - name: _dlt_parent_id
+    - name: _dlt_list_idx
+    - name: _dlt_id
+  - name: forecasts
+    columns:
+    - name: dt
+    - name: visibility
+    - name: pop
+    - name: dt_txt
+    - name: city
+    - name: sys__pod
+    - name: wind__speed
+    - name: wind__deg
+    - name: wind__gust
+    - name: clouds__all
+    - name: main__temp
+    - name: main__feels_like
+    - name: main__temp_min
+    - name: main__temp_max
+    - name: main__pressure
+    - name: main__sea_level
+    - name: main__grnd_level
+    - name: main__humidity
+    - name: main__temp_kf
+    - name: _dlt_load_id
+    - name: _dlt_id
+    - name: pop__v_double
+    - name: rain___3h
+  - name: forecasts__weather
+    columns:
+    - name: id
+    - name: main
+    - name: description
+    - name: icon
+    - name: _dlt_parent_id
+    - name: _dlt_list_idx
+    - name: _dlt_id

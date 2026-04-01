@@ -1,0 +1,18 @@
+# put your configuration values here
+
+[runtime]
+log_level="WARNING"  # the system log level of dlt
+# use the dlthub_telemetry setting to enable/disable anonymous usage data reporting, see https://dlthub.com/docs/reference/telemetry
+dlthub_telemetry = true
+
+
+[sources.openweather]
+# Base API v2.5 (sans chemin de ressource) — voir openweathermap_pipeline.py
+base_url = "https://api.openweathermap.org/data/2.5/"
+
+# Villes depuis PostgreSQL — openweathermap_from_pg_pipeline.py (une colonne = nom pour q=)
+[sources.openweather_pg]
+cities_sql = "WITH VillesNumerotees AS (SELECT auc_nom, reg_id, ROW_NUMBER() OVER (PARTITION BY reg_id) AS rang FROM referentiel_geo.referentiel_geographique) SELECT UPPER(auc_nom) auc_nom FROM VillesNumerotees WHERE rang <= 10"
+
+[sources.bfrb]
+url="https://boh-lab-fr.acrelec.com:9443/mwboh-api/v1.0.0/"

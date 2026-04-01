@@ -1,0 +1,12 @@
+# Généré automatiquement - Base: dbtdev, Schéma: main_GOLD
+version: 2
+models:
+- name: Dim_villes
+  columns:
+  - name: code_insee
+  - name: nom_commune
+  - name: departement
+  - name: code_departement
+  - name: region
+  - name: code_region
+  - name: type_commune

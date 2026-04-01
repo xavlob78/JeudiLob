@@ -1,0 +1,40 @@
+ProjetJeudi:
+  outputs:
+    dev:
+      type: duckdb
+      path: ../Db/dbtdev.duckdb
+      threads: 1
+
+      attach:
+        - path: ../Db/restaurant_pipeline.duckdb
+          type: duckdb
+          alias: restaurant
+          read_only: true
+
+
+        - path: ../Db/datagouv.duckdb
+          type: duckdb
+          alias: datagouv
+          read_only: true
+
+        - path: ../Db/rb.db
+          type: duckdb
+          alias: rb
+          read_only: true
+
+        - path: ../Db/meteo.duckdb
+          type: duckdb
+          alias: meteo
+          read_only: true
+
+        - path: ../Db/sncf.db
+          type: duckdb
+          alias: sncf
+          read_only: true
+
+    prod:
+      type: duckdb
+      path: dbtprod.duckdb
+      threads: 4
+
+  target: dev

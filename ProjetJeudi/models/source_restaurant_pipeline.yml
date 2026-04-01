@@ -1,0 +1,105 @@
+# Généré automatiquement pour la base : restaurant_pipeline
+version: 2
+sources:
+- name: restos
+  database: restaurant
+  schema: restaurants_data
+  tables:
+  - name: _dlt_loads
+    columns:
+    - name: load_id
+    - name: schema_name
+    - name: status
+    - name: inserted_at
+    - name: schema_version_hash
+  - name: _dlt_pipeline_state
+    columns:
+    - name: version
+    - name: engine_version
+    - name: pipeline_name
+    - name: state
+    - name: created_at
+    - name: version_hash
+    - name: _dlt_load_id
+    - name: _dlt_id
+  - name: _dlt_version
+    columns:
+    - name: version
+    - name: engine_version
+    - name: inserted_at
+    - name: schema_name
+    - name: version_hash
+    - name: schema
+  - name: restaurants
+    columns:
+    - name: osm_id
+    - name: type
+    - name: name
+    - name: opening_hours
+    - name: website
+    - name: smoking
+    - name: com_insee
+    - name: com_nom
+    - name: region
+    - name: code_region
+    - name: departement
+    - name: code_departement
+    - name: commune
+    - name: code_commune
+    - name: osm_edit
+    - name: geo_shape__type
+    - name: geo_shape__geometry__type
+    - name: geo_point_2d__lon
+    - name: geo_point_2d__lat
+    - name: _dlt_load_id
+    - name: _dlt_id
+    - name: phone
+    - name: siret
+    - name: operator
+    - name: brand
+    - name: takeaway
+    - name: brand_wikidata
+    - name: wheelchair
+    - name: vegetarian
+    - name: delivery
+    - name: stars
+    - name: drive_through
+    - name: capacity
+    - name: wikidata
+    - name: facebook
+    - name: vegan
+  - name: restaurants__cuisine
+    columns:
+    - name: value
+    - name: _dlt_parent_id
+    - name: _dlt_list_idx
+    - name: _dlt_id
+  - name: restaurants__geo_shape__geometry__coordinates
+    columns:
+    - name: _dlt_parent_id
+    - name: _dlt_list_idx
+    - name: _dlt_id
+    - name: value
+  - name: restaurants__geo_shape__geometry__coordinates__list
+    columns:
+    - name: _dlt_parent_id
+    - name: _dlt_list_idx
+    - name: _dlt_id
+  - name: restaurants__geo_shape__geometry__coordinates__list__list
+    columns:
+    - name: value
+    - name: _dlt_parent_id
+    - name: _dlt_list_idx
+    - name: _dlt_id
+  - name: restaurants__geo_shape__geometry__coordinates__list__list__list
+    columns:
+    - name: value
+    - name: _dlt_parent_id
+    - name: _dlt_list_idx
+    - name: _dlt_id
+  - name: restaurants__internet_access
+    columns:
+    - name: value
+    - name: _dlt_parent_id
+    - name: _dlt_list_idx
+    - name: _dlt_id
